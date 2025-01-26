@@ -14,5 +14,5 @@ Smoke Since	: Time when the smoker began smoking
 Smoke To : Time when the smoker stopped smoking
 Allergies:	
 Allergies' sympthoms:	
-Type of Visit : in this columns there is the type of visit like: periodic visit(visita periodica), Audiometry (audiometria), Spine assessment (Esame obiettivo del rachide)	
+Type of Visit : in this column there is the type of visit like: periodic visit(visita periodica), Audiometry (audiometria), Spine assessment (Esame obiettivo del rachide)	
 Outcome : the results of the type of visit 
