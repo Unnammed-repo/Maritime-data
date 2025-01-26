@@ -1,0 +1,2012 @@
+AGE;Audiometry Class;Audiometry Score;BMI;Fitness for work;Job;PATIENT_ID;Sex;Smoker;Job Category
+47;Classe3Classe4a;8.9;37;0;ableseaman;C1_5;M;Smoker;Professional Certifications and Credentials
+48;Classe0Classe1a;0;35;0;motorman;C1_8;M;Non-Smoker;Engineering Department
+49;Classe0Classe1a;0;38;0;motorman;C1_8;M;Non-Smoker;Engineering Department
+24;Classe0Classe1a;0;31;1;wiper;C1_12;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;31;1;wiper;C1_12;M;Non-Smoker;Engineering Department
+56;Classe0Classe1a;0;37;1;ableseaman;C1_15;M;Ex-Smoker;Professional Certifications and Credentials
+58;Classe4Classe2a;1.2;37;0;ableseaman;C1_15;M;Ex-Smoker;Professional Certifications and Credentials
+46;Classe9;4;24;0;ableseaman;C1_18;M;Smoker;Professional Certifications and Credentials
+48;Classe1Classe2a;0;24;0;ableseaman;C1_18;M;Smoker;Professional Certifications and Credentials
+28;Classe0Classe1a;3.6;26;0;wiper;C1_38;M;Smoker;Engineering Department
+29;Classe4Classe1a;1.3;26;0;wiper;C1_38;M;Smoker;Engineering Department
+31;Classe0Classe1a;0;29;1;engineerofficer;C1_40;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;31;1;engineofficer;C1_40;M;Smoker;Engineering Positions
+57;Classe5Classe6;6.8;26;0;ableseaman;C1_42;M;Smoker;Professional Certifications and Credentials
+57;Classe3Classe4a;4.4;26;0;ableseaman;C1_42;M;Smoker;Professional Certifications and Credentials
+61;Classe9;2.4;22;0;ableseaman;C1_49;M;Smoker;Professional Certifications and Credentials
+62;Classe1Classe2b;0.1;22;0;ableseaman;C1_49;M;Smoker;Professional Certifications and Credentials
+38;Classe7;0.9;23;1;engineofficer;C1_52;M;Smoker;Engineering Positions
+39;Classe7;0;25;1;engineerofficer;C1_52;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;21;1;engineofficer;C1_59;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;21;1;engineerofficer;C1_59;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;22;1;electricianassistant;C1_60;M;Smoker;Shipyard Jobs
+20;Classe0Classe1a;0;23;1;engineercadet;C1_62;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0.1;31;1;engineercadet;C1_66;M;Non-Smoker;Engineering Department
+22;Classe0Classe1a;0;31;1;engineerofficer;C1_66;M;Non-Smoker;Engineering Positions
+30;Classe0Classe1a;0.3;25;1;enginerating;C1_68;M;Non-Smoker;Engineering Positions
+31;Classe0Classe1a;0;25;1;enginerating;C1_68;M;Non-Smoker;Engineering Positions
+51;Classe2Classe3a;1.7;30;0;fitter;C1_70;M;Smoker;Engineering Department
+52;Classe2Classe3b;1.7;32;0;fitter;C1_70;M;Smoker;Engineering Department
+22;Classe7;0.6;24;1;wiper;C1_71;M;Non-Smoker;Engineering Department
+23;Classe7;0.6;24;1;wiper;C1_71;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;29;1;engineerofficer;C1_73;M;Non-Smoker;Engineering Positions
+34;Classe7;0;23;1;wiper;C1_76;M;Smoker;Engineering Department
+56;Classe3Classe2a;0.8;28;0;chiefengineer;C1_80;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;22;1;engineercadet;C1_92;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;25;1;engineercadet;C1_101;M;Non-Smoker;Engineering Department
+27;Classe0Classe1a;0;22;1;deckofficer;C1_105;M;Smoker;Deck Officers
+38;Classe0Classe1a;0.1;29;1;wiper;C1_116;M;Smoker;Engineering Department
+39;Classe0Classe1a;0;30;1;wiper;C1_116;M;Smoker;Engineering Department
+52;Classe3Classe4a;4.6;23;0;ableseaman;C1_119;M;Non-Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;27;1;engineercadet;C1_123;M;Non-Smoker;Engineering Department
+41;Classe0Classe1a;0;26;1;1stengineer;C1_128;M;Smoker;Engineering Positions
+46;Classe1Classe7;0;28;1;wiper;C1_129;M;Smoker;Engineering Department
+39;Classe4Classe7;0.7;27;1;bosun;C1_132;M;Smoker;Deck Officers
+40;Classe0Classe1a;0;27;1;bosun;C1_132;M;Smoker;Deck Officers
+32;Classe0Classe1a;0;29;1;fitter;C1_133;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;29;1;fitter;C1_133;M;Smoker;Engineering Department
+55;Classe3Classe3b;4.4;29;0;motorman;C1_134;M;Smoker;Engineering Department
+55;Classe9;4.1;27;0;fitter;C1_135;M;Non-Smoker;Engineering Department
+56;Classe3Classe4a;1;27;0;fitter;C1_135;M;Non-Smoker;Engineering Department
+48;Classe9;2.7;26;0;motorman;C1_139;M;Ex-Smoker;Engineering Department
+19;Classe0Classe1a;0;30;1;engineercadet;C1_142;M;Non-Smoker;Engineering Department
+58;Classe9;3.8;30;0;electrician;C1_143;M;Non-Smoker;Engineering Department
+60;Classe9;3.9;30;0;electrician;C1_143;M;Non-Smoker;Engineering Department
+37;classunknow;2.3;34;0;ableseaman;C1_145;M;Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;24;1;engineofficer;C1_148;M;Smoker;Engineering Positions
+33;Classe2Classe8;0.1;25;0;engineerofficer;C1_148;M;Ex-Smoker;Engineering Positions
+29;Classe0Classe1a;0;24;1;engineerofficer;C1_150;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;24;1;engineerofficer;C1_150;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;33;1;engineercadet;C1_152;M;Ex-Smoker;Engineering Department
+19;Classe0Classe1a;0;25;1;engineercadet;C1_154;M;Non-Smoker;Engineering Department
+45;Classe5Classe9;15.2;38;0;motorman;C1_160;M;Smoker;Engineering Department
+46;Classe3Classe8;3.8;33;0;motorman;C1_160;M;Smoker;Engineering Department
+48;Classe7;4;33;0;bosun;C1_165;M;Ex-Smoker;Deck Officers
+49;Classe1Classe7;0;33;0;bosun;C1_165;M;Ex-Smoker;Deck Officers
+27;Classe0Classe1a;0;26;1;engineerofficer;C1_170;M;Non-Smoker;Engineering Positions
+54;Classe7;2.4;24;0;electrician;C1_174;M;Smoker;Engineering Department
+55;Classe3Classe2b;1.4;24;0;electrician;C1_174;M;Smoker;Engineering Department
+44;Classe0Classe1a;0;32;1;chiefengineer;C1_180;M;Non-Smoker;Engineering Positions
+23;Classe7;0.6;31;1;engineerofficer;C1_181;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0.1;31;1;engineerofficer;C1_181;M;Non-Smoker;Engineering Positions
+47;Classe5Classe6;8.2;27;0;chiefengineer;C1_183;M;Smoker;Engineering Positions
+48;Classe5Classe6;8.8;27;0;chiefengineer;C1_183;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;22;1;electricianassistant;C1_188;M;Smoker;Shipyard Jobs
+26;Classe0Classe1a;0;24;1;ableseaman;C1_196;M;Non-Smoker;Professional Certifications and Credentials
+27;Classe0Classe1a;0;24;1;ableseaman;C1_196;M;Non-Smoker;Professional Certifications and Credentials
+46;Classe7;4;25;0;fitter;C1_198;M;Smoker;Engineering Department
+22;Classe7;0.6;23;1;engineercadet;C1_200;M;Non-Smoker;Engineering Department
+40;Classe0Classe1a;0;26;1;ableseaman;C1_205;M;Smoker;Professional Certifications and Credentials
+54;Classe9;2.1;32;0;ableseaman;C1_211;M;Smoker;Professional Certifications and Credentials
+55;Classe0Classe1a;0;32;0;ableseaman;C1_211;M;Smoker;Professional Certifications and Credentials
+55;Classe5Classe9;8.3;23;0;fitter;C1_213;M;Non-Smoker;Engineering Department
+56;Classe0Classe1a;0;23;0;fitter;C1_213;M;Non-Smoker;Engineering Department
+21;Classe7;0.6;25;1;engineercadet;C1_214;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;23;1;engineercadet;C1_216;M;Non-Smoker;Engineering Department
+41;Classe0Classe1a;0;30;1;chiefengineer;C1_217;M;Smoker;Engineering Positions
+42;Classe1Classe1a;0;32;1;chiefengineer;C1_217;M;Smoker;Engineering Positions
+54;Classe7;2;25;0;bosun;C1_229;M;Ex-Smoker;Deck Officers
+55;Classe0Classe1a;0;23;0;bosun;C1_229;M;Ex-Smoker;Deck Officers
+40;Classe7;0;26;1;ableseaman;C1_233;M;Smoker;Professional Certifications and Credentials
+28;Classe0Classe1a;0;22;1;engineercadet;C1_234;M;Non-Smoker;Engineering Department
+40;Classe0Classe1a;0.1;30;1;electrician;C1_235;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;29;1;electrician;C1_235;M;Smoker;Engineering Department
+41;Classe5Classe9;9;25;0;engineerofficer;C1_238;M;Non-Smoker;Engineering Positions
+42;Classe1Classe2a;0;24;1;engineerofficer;C1_241;M;Smoker;Engineering Positions
+43;Classe0Classe1a;0;24;1;engineerofficer;C1_241;M;Smoker;Engineering Positions
+44;classunknow;0;26;1;engineerofficer;C1_241;M;Smoker;Engineering Positions
+42;Classe7;1.6;24;1;chiefengineer;C1_242;M;Smoker;Engineering Positions
+51;classunknow;0.9;24;1;ableseaman;C1_243;M;Smoker;Professional Certifications and Credentials
+24;Classe1Classe2a;0.5;22;1;3rdengineer;C1_244;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;23;1;engineerofficer;C1_244;M;Smoker;Engineering Positions
+56;Classe3Classe4a;1.8;28;0;chiefengineer;C1_246;M;Ex-Smoker;Engineering Positions
+57;Classe2Classe3a;0.3;28;0;chiefengineer;C1_246;M;Ex-Smoker;Engineering Positions
+46;Classe0Classe1a;0;26;1;engineerofficer;C1_247;M;Ex-Smoker;Engineering Positions
+46;Classe0Classe1a;0;30;1;engineerofficer;C1_247;M;Ex-Smoker;Engineering Positions
+47;Classe0Classe1a;0;31;1;engineerofficer;C1_247;M;Ex-Smoker;Engineering Positions
+20;Classe7;1.2;29;1;engineercadet;C1_248;M;Smoker;Engineering Department
+28;Classe9;0.6;39;1;electricianassistant;C1_249;M;Non-Smoker;Shipyard Jobs
+29;Classe0Classe1a;0;39;1;electricianassistant;C1_249;M;Non-Smoker;Shipyard Jobs
+30;Classe1Classe2a;0;39;1;electricianassistant;C1_249;M;Non-Smoker;Shipyard Jobs
+41;Classe0Classe1a;0;31;1;motorman;C1_256;M;Smoker;Engineering Department
+42;Classe1Classe1a;0;28;1;motorman;C1_256;M;Smoker;Engineering Department
+25;Classe7;0.6;26;1;electricianassistant;C1_257;M;Smoker;Shipyard Jobs
+26;Classe0Classe1a;0;25;1;electricianassistant;C1_257;M;Smoker;Shipyard Jobs
+57;Classe7;1.4;33;1;bosun;C1_260;M;Ex-Smoker;Deck Officers
+58;Classe4Classe2a;0.2;33;1;bosun;C1_260;M;Ex-Smoker;Deck Officers
+19;Classe0Classe1a;0;20;1;engineercadet;C1_270;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;34;1;2ndengineer;C1_273;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;34;1;engineerofficer;C1_273;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;31;1;ableseaman;C1_276;M;Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;31;1;ableseaman;C1_276;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;25;1;ableseaman;C1_277;M;Non-Smoker;Professional Certifications and Credentials
+38;Classe0Classe1a;0;25;1;ableseaman;C1_279;M;Non-Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0;25;1;engineerofficer;C1_282;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;24;1;engineercadet;C1_284;M;Smoker;Engineering Department
+47;Classe2Classe2b;0.7;30;0;motorman;C1_285;M;Smoker;Engineering Department
+28;Classe3Classe4a;0.8;33;0;ableseaman;C1_287;M;Ex-Smoker;Professional Certifications and Credentials
+55;Classe9;3.6;29;0;bosun;C1_291;M;Smoker;Deck Officers
+56;Classe2Classe3a;1;30;0;bosun;C1_291;M;Smoker;Deck Officers
+47;Classe0Classe1a;0;21;0;ableseaman;C1_293;M;Smoker;Professional Certifications and Credentials
+43;Classe7;2;26;1;wiper;C1_298;M;Smoker;Engineering Department
+44;classunknow;0;27;1;wiper;C1_298;M;Smoker;Engineering Department
+39;Classe0Classe1a;0;27;1;electricianassistant;C1_302;M;Smoker;Shipyard Jobs
+21;Classe0Classe1a;0;27;1;engineerofficer;C1_305;M;Non-Smoker;Engineering Positions
+40;Classe0Classe1a;0;27;1;motorman;C1_308;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;27;1;fitter;C1_308;M;Smoker;Engineering Department
+41;Classe7;1.8;27;0;ableseaman;C1_318;M;Smoker;Professional Certifications and Credentials
+41;Classe1Classe2a;0;27;1;ableseaman;C1_318;M;Smoker;Professional Certifications and Credentials
+35;Classe0Classe1a;0;32;1;electrician;C1_322;M;Non-Smoker;Engineering Department
+59;Classe7;0.6;30;1;chiefengineer;C1_324;M;Ex-Smoker;Engineering Positions
+61;Classe0Classe1a;0;30;1;chiefengineer;C1_324;M;Ex-Smoker;Engineering Positions
+32;Classe0Classe1a;0;22;1;engineerofficer;C1_336;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0.1;18;1;wiper;C1_339;M;Smoker;Engineering Department
+38;classunknow;0.4;26;1;engineerofficer;C1_344;M;Non-Smoker;Engineering Positions
+39;Classe0Classe1a;0;26;1;engineerofficer;C1_344;M;Non-Smoker;Engineering Positions
+48;Classe7;3.3;30;0;1stengineer;C1_345;M;Non-Smoker;Engineering Positions
+49;Classe0Classe1a;0;30;0;1stengineer;C1_345;M;Non-Smoker;Engineering Positions
+53;Classe0Classe1a;0;32;1;chiefengineer;C1_350;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;37;1;engineercadet;C1_353;M;Smoker;Engineering Department
+53;Classe5Classe6;4.9;29;0;ableseaman;C1_356;M;Smoker;Professional Certifications and Credentials
+35;Classe0Classe1a;0;30;1;1stengineer;C1_360;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;30;1;1stengineer;C1_360;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;20;1;engineerofficer;C1_361;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;19;1;engineerofficer;C1_361;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;26;1;engineofficer;C1_363;M;Smoker;Engineering Positions
+32;Classe9;3.7;29;0;ableseaman;C1_365;M;Smoker;Professional Certifications and Credentials
+33;Classe3Classe2a;0.4;29;0;ableseaman;C1_365;M;Smoker;Professional Certifications and Credentials
+34;Classe2Classe1a;0.1;31;0;ableseaman;C1_368;M;Smoker;Professional Certifications and Credentials
+35;Classe1Classe2a;0;31;0;ableseaman;C1_368;M;Smoker;Professional Certifications and Credentials
+35;Classe0Classe1a;0;25;1;electricianassistant;C1_381;M;Ex-Smoker;Shipyard Jobs
+22;Classe0Classe1a;0;27;1;engineercadet;C1_383;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;21;1;engineercadet;C1_394;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;26;1;electricianassistant;C1_397;M;Smoker;Shipyard Jobs
+27;Classe0Classe1a;0;24;1;electricianassistant;C1_397;M;Smoker;Shipyard Jobs
+53;Classe1Classe2a;0;24;0;ableseaman;C1_404;M;Smoker;Professional Certifications and Credentials
+41;Classe7;0.8;24;1;engineerofficer;C1_413;M;Smoker;Engineering Positions
+42;Classe0Classe1a;0;26;1;engineerofficer;C1_413;M;Smoker;Engineering Positions
+60;Classe9;1.9;20;0;ableseaman;C1_416;M;Smoker;Professional Certifications and Credentials
+40;Classe0Classe1a;0;34;1;1stengineer;C1_423;M;Smoker;Engineering Positions
+37;Classe0Classe1a;0;25;1;wiper;C1_424;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;26;1;wiper;C1_424;M;Smoker;Engineering Department
+53;Classe7;1.1;29;1;ableseaman;C1_432;M;Ex-Smoker;Professional Certifications and Credentials
+54;Classe0Classe1a;0;26;1;ableseaman;C1_432;M;Ex-Smoker;Professional Certifications and Credentials
+26;Classe0Classe1a;0;33;1;engineerofficer;C1_443;M;Smoker;Engineering Positions
+45;Classe1Classe9;0.4;29;0;engineerofficer;C1_445;M;Non-Smoker;Engineering Positions
+46;Classe0Classe1a;0;29;1;engineerofficer;C1_445;M;Non-Smoker;Engineering Positions
+28;Classe7;1.2;23;1;electricianassistant;C1_449;M;Smoker;Shipyard Jobs
+28;Classe2Classe1a;0.2;23;1;electricianassistant;C1_449;M;Smoker;Shipyard Jobs
+29;Classe2Classe1a;0.3;24;1;electricianassistant;C1_449;M;Smoker;Shipyard Jobs
+24;Classe0Classe1a;0;27;1;engineercadet;C1_450;M;Non-Smoker;Engineering Department
+52;Classe0Classe1a;0;25;1;fitter;C1_451;M;Smoker;Engineering Department
+37;Classe7;0.8;30;1;chiefengineer;C1_453;M;Smoker;Engineering Positions
+38;classunknow;0;31;1;chiefengineer;C1_453;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;19;1;engineercadet;C1_455;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;28;1;ableseaman;C1_476;M;Smoker;Professional Certifications and Credentials
+52;Classe0Classe7;0;25;1;ableseaman;C1_476;M;Ex-Smoker;Professional Certifications and Credentials
+19;Classe0Classe1a;0;19;1;engineercadet;C1_478;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;24;1;engineercadet;C1_479;M;Smoker;Engineering Department
+28;Classe0Classe1a;0;28;1;engineerofficer;C1_483;M;Smoker;Engineering Positions
+41;Classe1Classe1a;0;31;1;ableseaman;C1_493;M;Ex-Smoker;Professional Certifications and Credentials
+41;Classe9;2.4;32;0;engineerofficer;C1_496;M;Ex-Smoker;Engineering Positions
+42;Classe2Classe2a;0.3;35;0;engineerofficer;C1_496;M;Ex-Smoker;Engineering Positions
+37;Classe7;0.8;29;1;enginerating;C1_498;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0;29;1;enginerating;C1_498;M;Non-Smoker;Engineering Positions
+62;Classe6;8.2;28;0;bosun;C1_499;M;Ex-Smoker;Deck Officers
+63;Classe3Classe4a;3.1;26;0;bosun;C1_499;M;Ex-Smoker;Deck Officers
+62;Classe1Classe1a;0;28;1;motorman;C1_500;M;Smoker;Engineering Department
+63;Classe0Classe1a;0;28;0;motorman;C1_500;M;Smoker;Engineering Department
+29;Classe4Classe1a;0.2;26;1;wiper;C1_506;M;Non-Smoker;Engineering Department
+30;Classe0Classe1a;0;27;1;2ndengineer;C1_514;M;Non-Smoker;Engineering Positions
+34;Classe7;0.6;31;1;electrician;C1_517;M;Non-Smoker;Engineering Department
+41;Classe9;2.3;33;0;electrotechnicalofficer;C1_519;M;Smoker;Shipyard Jobs
+19;Classe0Classe1a;0;25;1;engineercadet;C1_520;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0.5;31;1;ableseaman;C1_528;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;32;1;ableseaman;C1_528;M;Ex-Smoker;Professional Certifications and Credentials
+22;Classe0Classe1a;0;24;1;wiper;C1_531;M;Non-Smoker;Engineering Department
+60;Classe9;3.6;23;0;electrician;C1_533;M;Smoker;Engineering Department
+61;Classe2Classe3b;3.1;24;0;electrician;C1_533;M;Ex-Smoker;Engineering Department
+26;Classe0Classe1a;0;24;1;engineofficer;C1_534;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;27;1;engineerofficer;C1_534;M;Smoker;Engineering Positions
+28;Classe2Classe3a;1;27;0;wiper;C1_537;M;Smoker;Engineering Department
+54;Classe2Classe9;0.3;28;0;fitter;C1_538;M;Smoker;Engineering Department
+55;Classe2Classe3a;0.3;28;0;fitter;C1_538;M;Smoker;Engineering Department
+27;Classe0Classe1a;0;32;1;engineerofficer;C1_541;M;Non-Smoker;Engineering Positions
+18;Classe0Classe1a;0;26;1;engineercadet;C1_551;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;30;1;engineercadet;C1_560;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;24;1;engineercadet;C1_561;M;Smoker;Engineering Department
+55;Classe0Classe1a;0;31;1;ableseaman;C1_569;M;Non-Smoker;Professional Certifications and Credentials
+56;Classe0Classe1a;0;35;1;ableseaman;C1_569;M;Non-Smoker;Professional Certifications and Credentials
+48;Classe1Classe2a;0;28;0;wiper;C1_570;M;Smoker;Engineering Department
+49;Classe1Classe9;0.4;27;0;ableseaman;C1_576;M;Ex-Smoker;Professional Certifications and Credentials
+50;Classe2Classe3a;0.3;27;0;ableseaman;C1_576;M;Ex-Smoker;Professional Certifications and Credentials
+26;Classe0Classe1a;0;29;1;engineercadet;C1_578;M;Non-Smoker;Engineering Department
+25;Classe7;0.8;25;1;engineerofficer;C1_585;M;Smoker;Engineering Positions
+26;Classe0Classe1a;0;27;1;engineerofficer;C1_585;M;Smoker;Engineering Positions
+21;Classe7;0.6;26;1;engineercadet;C1_590;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;24;1;engineercadet;C1_590;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;20;1;engineofficer;C1_591;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;20;1;engineofficer;C1_591;M;Non-Smoker;Engineering Positions
+59;Classe4Classe4b;12.4;28;0;fitter;C1_595;M;Ex-Smoker;Engineering Department
+62;Classe6;3.8;28;0;fitter;C1_597;M;Smoker;Engineering Department
+63;Classe3Classe4a;3.1;28;0;fitter;C1_597;M;Smoker;Engineering Department
+54;Classe1Classe7;0;24;0;electrician;C1_598;M;Smoker;Engineering Department
+41;Classe0Classe1a;0.2;26;1;wiper;C1_599;M;Smoker;Engineering Department
+45;Classe0Classe1a;0;28;1;chiefengineer;C1_600;M;Smoker;Engineering Positions
+45;Classe7;1.4;28;1;electrician;C1_603;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0;28;1;electrotechnicalofficer;C1_603;M;Non-Smoker;Shipyard Jobs
+25;Classe7;0.6;23;1;engineerofficer;C1_609;M;Smoker;Engineering Positions
+18;Classe0Classe1a;0;23;1;engineercadet;C1_612;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;25;1;engineercadet;C1_616;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;28;1;engineercadet;C1_618;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;28;1;engineercadet;C1_618;M;Smoker;Engineering Department
+25;Classe0Classe1a;0.1;22;1;wiper;C1_620;M;Non-Smoker;Engineering Department
+25;classunknow;0.1;22;1;wiper;C1_620;M;Non-Smoker;Engineering Department
+26;Classe0Classe1a;0;22;1;wiper;C1_620;M;Non-Smoker;Engineering Department
+35;Classe2Classe7;0.7;27;1;engineerofficer;C1_624;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;30;1;engineercadet;C1_626;M;Non-Smoker;Engineering Department
+25;Classe7;1.5;29;1;engineerofficer;C1_634;M;Smoker;Engineering Positions
+26;Classe4Classe7;2.5;29;0;engineerofficer;C1_642;M;Smoker;Engineering Positions
+49;Classe9;1.3;27;0;electrician;C1_646;M;Non-Smoker;Engineering Department
+50;Classe1Classe1a;0;29;0;electrician;C1_646;M;Non-Smoker;Engineering Department
+18;Classe0Classe1a;0;19;1;engineercadet;C1_647;M;Non-Smoker;Engineering Department
+27;Classe0Classe1a;0;23;1;1stengineer;C1_650;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;23;1;1stengineer;C1_650;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0.3;27;1;engineercadet;C1_652;M;Non-Smoker;Engineering Department
+29;Classe0Classe1a;0;22;1;engineofficer;C1_653;M;Non-Smoker;Engineering Positions
+30;Classe7;0.6;24;1;engineofficer;C1_653;M;Non-Smoker;Engineering Positions
+21;Classe7;1.4;25;1;engineercadet;C1_662;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;20;0;1stengineer;C1_664;M;Ex-Smoker;Engineering Positions
+31;Classe3Classe3a;2.1;21;0;1stengineer;C1_664;M;Ex-Smoker;Engineering Positions
+54;Classe0Classe1a;0;29;1;ableseaman;C1_665;M;Ex-Smoker;Professional Certifications and Credentials
+22;Classe0Classe1a;0.3;28;1;engineercadet;C1_668;M;Non-Smoker;Engineering Department
+25;Classe7;1.4;29;1;wiper;C1_673;M;Non-Smoker;Engineering Department
+41;Classe1Classe1a;0;29;1;wiper;C1_675;M;Smoker;Engineering Department
+42;Classe0Classe1a;0;29;1;wiper;C1_675;M;Smoker;Engineering Department
+37;Classe0Classe1a;0;33;1;engineerofficer;C1_679;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0.1;34;1;engineerofficer;C1_679;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;24;1;engineerofficer;C1_681;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;24;1;engineerofficer;C1_681;M;Smoker;Engineering Positions
+42;Classe7;0.8;30;1;carpenter;C1_687;M;Ex-Smoker;Shipyard Jobs
+43;Classe7;0;29;1;ableseaman;C1_687;M;Ex-Smoker;Professional Certifications and Credentials
+64;Classe3Classe4a;1;29;0;ableseaman;C1_695;M;Non-Smoker;Professional Certifications and Credentials
+65;Classe0Classe1a;0;29;0;ableseaman;C1_695;M;Non-Smoker;Professional Certifications and Credentials
+44;Classe7;2.8;28;1;ableseaman;C1_698;M;Non-Smoker;Professional Certifications and Credentials
+44;Classe0Classe1a;0;25;1;ableseaman;C1_698;M;Non-Smoker;Professional Certifications and Credentials
+18;Classe7;3.7;19;1;engineercadet;C1_710;M;Non-Smoker;Engineering Department
+24;Classe0Classe1a;0;32;1;engineerofficer;C1_714;M;Non-Smoker;Engineering Positions
+19;Classe4Classe1a;0.8;21;0;engineercadet;C1_716;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;24;1;electricianassistant;C1_717;M;Smoker;Shipyard Jobs
+26;Classe7;1.1;26;1;wiper;C1_719;M;Smoker;Engineering Department
+55;Classe3Classe4a;2.3;27;0;chiefengineer;C1_721;M;Non-Smoker;Engineering Positions
+56;Classe3Classe3b;2.5;27;0;chiefengineer;C1_721;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;27;1;engineercadet;C1_723;M;Smoker;Engineering Department
+45;Classe0Classe1a;0;31;1;1stengineer;C1_730;M;Non-Smoker;Engineering Positions
+46;classunknow;0;31;1;1stengineer;C1_730;M;Non-Smoker;Engineering Positions
+30;Classe0Classe1a;0;24;1;engineerofficer;C1_731;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;24;1;engineerofficer;C1_731;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;27;1;engineerofficer;C1_731;M;Smoker;Engineering Positions
+39;Classe7;2;28;0;wiper;C1_733;M;Smoker;Engineering Department
+39;Classe0Classe7;0;28;0;wiper;C1_733;M;Smoker;Engineering Department
+34;Classe7;4;33;0;electricianassistant;C1_743;M;Smoker;Shipyard Jobs
+35;Classe3Classe7;2.4;33;0;electricianassistant;C1_743;M;Smoker;Shipyard Jobs
+46;Classe9;4.9;29;0;ableseaman;C1_744;M;Smoker;Professional Certifications and Credentials
+24;Classe7;1.2;22;1;engineercadet;C1_746;M;Smoker;Engineering Department
+24;Classe0Classe1a;0;26;1;wiper;C1_747;M;Non-Smoker;Engineering Department
+31;Classe7;0.6;37;1;engineerofficer;C1_754;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;20;1;engineercadet;C1_758;M;Smoker;Engineering Department
+50;Classe7;1.6;25;0;ableseaman;C1_769;M;Smoker;Professional Certifications and Credentials
+20;Classe0Classe1a;0;25;1;engineercadet;C1_781;M;Smoker;Engineering Department
+33;Classe7;0.6;24;1;electrician;C1_786;M;Smoker;Engineering Department
+28;Classe0Classe1a;0.1;24;1;wiper;C1_789;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;24;1;wiper;C1_789;M;Smoker;Engineering Department
+30;Classe0Classe1a;0.3;28;1;engineerofficer;C1_792;M;Smoker;Engineering Positions
+26;Classe2Classe1a;0;23;1;engineerofficer;C1_794;M;Smoker;Engineering Positions
+42;Classe7;4;30;0;ableseaman;C1_797;M;Smoker;Professional Certifications and Credentials
+42;Classe2Classe1a;0.1;30;1;ableseaman;C1_797;M;Smoker;Professional Certifications and Credentials
+41;classunknow;1.6;36;0;ableseaman;C1_798;M;Ex-Smoker;Professional Certifications and Credentials
+41;Classe1Classe1a;0;35;1;ableseaman;C1_798;M;Ex-Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;37;1;ableseaman;C1_798;M;Ex-Smoker;Professional Certifications and Credentials
+36;Classe0Classe1a;0.1;24;1;ableseaman;C1_807;M;Smoker;Professional Certifications and Credentials
+36;Classe0Classe1a;0;24;1;bosun;C1_807;M;Smoker;Deck Officers
+50;Classe1Classe9;0;28;0;electrician;C1_808;M;Smoker;Engineering Department
+33;Classe7;0.9;24;1;1stengineer;C1_816;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;25;1;1stengineer;C1_816;M;Smoker;Engineering Positions
+58;Classe9;2.2;29;1;ableseaman;C1_822;M;Non-Smoker;Professional Certifications and Credentials
+59;Classe0Classe1a;0;31;1;ableseaman;C1_822;M;Non-Smoker;Professional Certifications and Credentials
+24;Classe7;1.2;27;1;engineerofficer;C1_825;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;24;1;engineerofficer;C1_825;M;Non-Smoker;Engineering Positions
+37;Classe0Classe1a;0;28;1;chiefengineer;C1_827;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;28;1;chiefengineer;C1_827;M;Smoker;Engineering Positions
+63;Classe0Classe7;0.3;25;0;electrician;C1_828;M;Smoker;Engineering Department
+38;Classe4Classe5a;4;33;0;carpenter;C1_829;M;Smoker;Shipyard Jobs
+29;Classe4Classe4a;2.2;23;0;wiper;C1_830;M;Smoker;Engineering Department
+29;Classe4Classe4a;2;22;0;wiper;C1_830;M;Smoker;Engineering Department
+57;Classe0Classe1a;0;27;0;fitter;C1_831;M;Smoker;Engineering Department
+58;Classe5Classe6;2.3;27;0;fitter;C1_831;M;Smoker;Engineering Department
+53;Classe0Classe1a;0;33;0;chiefengineer;C1_832;M;Non-Smoker;Engineering Positions
+54;Classe2Classe2a;0.4;35;0;chiefengineer;C1_832;M;Non-Smoker;Engineering Positions
+21;Classe0Classe1a;0;28;1;engineerofficer;C1_834;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;29;1;engineerofficer;C1_834;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;20;1;electricianassistant;C1_835;M;Smoker;Shipyard Jobs
+31;Classe0Classe1a;0;20;1;electricianassistant;C1_835;M;Smoker;Shipyard Jobs
+28;Classe0Classe1a;0;20;1;wiper;C1_838;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0;29;1;engineofficer;C1_840;M;Smoker;Engineering Positions
+41;Classe2Classe9;3.8;27;0;engineerofficer;C1_843;M;Smoker;Engineering Positions
+42;Classe3Classe4a;9.2;28;0;2ndengineer;C1_843;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0.3;30;1;ableseaman;C1_844;M;Non-Smoker;Professional Certifications and Credentials
+35;Classe0Classe1a;0;31;1;ableseaman;C1_844;M;Non-Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;21;1;wiper;C1_845;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;24;1;engineercadet;C1_846;M;Non-Smoker;Engineering Department
+34;Classe7;1.7;27;0;engineerofficer;C1_854;M;Non-Smoker;Engineering Positions
+35;classunknow;0.4;27;0;2ndengineer;C1_854;M;Non-Smoker;Engineering Positions
+54;Classe0Classe1a;0;24;1;chiefengineer;C1_860;M;Non-Smoker;Engineering Positions
+55;Classe0Classe1a;0;24;1;chiefengineer;C1_860;M;Non-Smoker;Engineering Positions
+47;Classe0Classe1a;0;35;1;bosun;C1_863;M;Smoker;Deck Officers
+32;Classe0Classe1a;0;27;1;ableseaman;C1_864;M;Non-Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;27;1;ableseaman;C1_864;M;Non-Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;23;1;engineercadet;C1_865;M;Smoker;Engineering Department
+35;Classe0Classe1a;0;27;1;1stengineer;C1_872;M;Ex-Smoker;Engineering Positions
+36;Classe0Classe1a;0;27;1;1stengineer;C1_872;M;Ex-Smoker;Engineering Positions
+34;Classe0Classe1a;0;25;1;engineercadet;C1_875;M;Smoker;Engineering Department
+34;classunknow;0.1;28;1;chiefengineer;C1_876;M;Non-Smoker;Engineering Positions
+35;Classe0Classe1a;0;30;1;chiefengineer;C1_876;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;28;1;engineerofficer;C1_878;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;22;1;wiper;C1_880;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;23;1;wiper;C1_880;M;Smoker;Engineering Department
+27;Classe0Classe1a;0;26;1;engineerofficer;C1_881;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;26;1;engineerofficer;C1_881;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;24;1;3rdengineer;C1_890;M;Smoker;Engineering Positions
+38;Classe2Classe3a;0.6;24;0;wiper;C1_903;M;Non-Smoker;Engineering Department
+38;Classe9;1;24;0;wiper;C1_903;M;Non-Smoker;Engineering Department
+39;Classe2Classe3a;0.1;24;0;wiper;C1_903;M;Smoker;Engineering Department
+42;Classe0Classe1a;0;23;1;wiper;C1_905;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;24;1;chiefengineer;C1_913;M;Non-Smoker;Engineering Positions
+48;Classe0Classe1a;0;24;1;chiefengineer;C1_913;M;Non-Smoker;Engineering Positions
+60;Classe0Classe1a;0;32;0;ableseaman;C1_915;M;Smoker;Professional Certifications and Credentials
+60;Classe2Classe3b;2.8;32;0;ableseaman;C1_915;M;Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0.1;26;1;electrician;C1_916;M;Non-Smoker;Engineering Department
+28;Classe0Classe1a;0;26;1;engineerofficer;C1_917;M;Ex-Smoker;Engineering Positions
+29;Classe0Classe1a;0;26;0;engineerofficer;C1_917;M;Ex-Smoker;Engineering Positions
+29;Classe0Classe1a;0;23;1;engineerofficer;C1_917;M;Ex-Smoker;Engineering Positions
+20;Classe0Classe1a;0;26;1;engineercadet;C1_918;M;Smoker;Engineering Department
+28;Classe0Classe1a;0.3;18;1;engineerofficer;C1_921;M;Non-Smoker;Engineering Positions
+29;Classe0Classe1a;0;18;1;engineerofficer;C1_921;M;Non-Smoker;Engineering Positions
+54;Classe9;2.4;26;0;fitter;C1_926;M;Smoker;Engineering Department
+55;Classe4Classe9;1.5;26;0;fitter;C1_926;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;25;1;chiefengineer;C1_927;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;31;1;wiper;C1_928;M;Non-Smoker;Engineering Department
+47;Classe4Classe6;2.6;31;0;ableseaman;C1_933;M;Smoker;Professional Certifications and Credentials
+47;Classe2Classe3a;0.7;31;0;bosun;C1_933;M;Smoker;Deck Officers
+26;Classe7;1.4;22;1;engineerofficer;C1_943;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;26;1;engineerofficer;C1_944;M;Non-Smoker;Engineering Positions
+30;Classe0Classe1a;0;26;1;1stengineer;C1_944;M;Non-Smoker;Engineering Positions
+43;Classe9;1.3;23;0;chiefengineer;C1_947;M;Smoker;Engineering Positions
+60;Classe9;4.3;31;0;chiefengineer;C1_953;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;25;1;engineercadet;C1_958;M;Smoker;Engineering Department
+25;Classe7;0.6;27;1;wiper;C1_960;M;Smoker;Engineering Department
+26;Classe0Classe1a;0;29;1;wiper;C1_960;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;29;1;engineercadet;C1_966;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;29;1;engineercadet;C1_966;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;20;1;engineercadet;C1_967;M;Smoker;Engineering Department
+57;Classe9;4.8;32;0;bosun;C1_970;M;Smoker;Deck Officers
+57;Classe2Classe1a;0.1;32;0;bosun;C1_970;M;Smoker;Deck Officers
+58;Classe0Classe1a;0;32;0;bosun;C1_970;M;Smoker;Deck Officers
+49;Classe9;3.6;30;0;bosun;C1_971;M;Smoker;Deck Officers
+51;Classe2Classe3a;1.2;30;0;bosun;C1_971;M;Smoker;Deck Officers
+20;Classe0Classe1a;0;31;1;engineercadet;C1_972;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;26;1;engineercadet;C1_981;M;Smoker;Engineering Department
+58;Classe0Classe1a;0;28;0;fitter;C1_983;M;Non-Smoker;Engineering Department
+59;Classe2Classe9;0.3;28;0;fitter;C1_983;M;Non-Smoker;Engineering Department
+32;Classe0Classe1a;0;26;0;engineerofficer;C1_984;M;Non-Smoker;Engineering Positions
+35;Classe0Classe1a;0;27;1;wiper;C1_986;M;Smoker;Engineering Department
+63;Classe0Classe1a;0;28;0;1stengineer;C1_989;M;Smoker;Engineering Positions
+42;Classe0Classe1a;0;28;0;chiefengineer;C1_996;M;Smoker;Engineering Positions
+43;Classe3Classe3b;2.3;27;0;chiefengineer;C1_996;M;Smoker;Engineering Positions
+20;Classe7;0.6;21;1;engineercadet;C1_998;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;21;1;engineercadet;C1_998;M;Smoker;Engineering Department
+47;Classe7;2;30;1;motorman;C1_999;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;30;1;motorman;C1_999;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;29;1;electrician;C1_1003;M;Smoker;Engineering Department
+50;Classe4Classe7;4.1;21;0;ableseaman;C1_1004;M;Smoker;Professional Certifications and Credentials
+51;Classe2Classe1a;0.6;21;0;ableseaman;C1_1004;M;Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;25;1;ableseaman;C1_1007;M;Non-Smoker;Professional Certifications and Credentials
+45;Classe0Classe1a;0;28;0;fitter;C1_1011;M;Non-Smoker;Engineering Department
+23;Classe7;0.6;20;1;engineerofficer;C1_1018;M;Smoker;Engineering Positions
+45;Classe0Classe1a;0;31;1;driver;C1_1026;M;Smoker;Shipyard Jobs
+46;Classe0Classe1a;0;29;1;driver;C1_1026;M;Smoker;Shipyard Jobs
+38;Classe7;0.6;28;1;engineerofficer;C1_1027;M;Ex-Smoker;Engineering Positions
+22;Classe0Classe1a;0;26;1;engineerofficer;C1_1030;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;20;1;electricianassistant;C1_1033;M;Non-Smoker;Shipyard Jobs
+45;Classe0Classe1a;0.1;33;1;ableseaman;C1_1039;M;Smoker;Professional Certifications and Credentials
+64;Classe5Classe6;29.6;26;0;fitter;C1_1054;M;Smoker;Engineering Department
+32;Classe7;0.7;22;0;wiper;C1_1055;M;Smoker;Engineering Department
+55;Classe7;1.4;28;0;ableseaman;C1_1059;M;Smoker;Professional Certifications and Credentials
+56;Classe0Classe1a;0;28;0;ableseaman;C1_1059;M;Smoker;Professional Certifications and Credentials
+24;Classe0Classe1a;0;29;1;engineofficer;C1_1060;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;23;1;engineerofficer;C1_1061;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;24;1;engineofficer;C1_1071;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;26;1;engineerofficer;C1_1071;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;26;1;3rdengineer;C1_1071;M;Smoker;Engineering Positions
+41;Classe2Classe3a;0.4;28;0;bosun;C1_1073;M;Non-Smoker;Deck Officers
+42;Classe2Classe1a;0.2;27;0;bosun;C1_1073;M;Non-Smoker;Deck Officers
+21;Classe0Classe1a;0;24;1;electricianassistant;C1_1074;M;Non-Smoker;Shipyard Jobs
+19;Classe0Classe1a;0;23;1;engineercadet;C1_1082;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;26;1;engineercadet;C1_1087;M;Non-Smoker;Engineering Department
+46;Classe7;0.8;29;1;enginerating;C1_1090;M;Smoker;Engineering Positions
+47;Classe1Classe1a;0;29;1;enginerating;C1_1090;M;Smoker;Engineering Positions
+44;Classe7;1.4;28;1;1stengineer;C1_1092;M;Smoker;Engineering Positions
+45;Classe2Classe3a;0.3;28;1;1stengineer;C1_1092;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;30;1;engineerofficer;C1_1093;M;Non-Smoker;Engineering Positions
+57;Classe2Classe7;0;26;1;ableseaman;C1_1094;M;Smoker;Professional Certifications and Credentials
+55;Classe0Classe1a;0;25;0;ableseaman;C1_1097;M;Smoker;Professional Certifications and Credentials
+56;Classe0Classe1a;0;25;0;ableseaman;C1_1097;M;Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;30;0;chiefengineer;C1_1099;M;Smoker;Engineering Positions
+48;Classe2Classe1a;0.3;30;0;chiefengineer;C1_1099;M;Smoker;Engineering Positions
+44;Classe0Classe1a;0;29;1;ableseaman;C1_1104;M;Non-Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0.1;28;1;engineerofficer;C1_1106;M;Smoker;Engineering Positions
+63;classunknow;10.1;29;0;ableseaman;C1_1109;M;Smoker;Professional Certifications and Credentials
+50;Classe7;1.2;34;1;wiper;C1_1130;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;34;1;wiper;C1_1130;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;27;1;electricianassistant;C1_1135;M;Non-Smoker;Shipyard Jobs
+31;Classe0Classe1a;0;27;1;electrician;C1_1135;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0.3;25;1;engineerofficer;C1_1136;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;28;0;engineercadet;C1_1138;M;Non-Smoker;Engineering Department
+26;Classe0Classe1a;0;28;1;engineerofficer;C1_1139;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;19;1;engineercadet;C1_1140;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;24;1;3rdengineer;C1_1144;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;24;1;engineerofficer;C1_1144;M;Non-Smoker;Engineering Positions
+59;Classe9;2.8;24;0;ableseaman;C1_1148;M;Ex-Smoker;Professional Certifications and Credentials
+59;Classe9;0.6;24;0;ableseaman;C1_1148;M;Ex-Smoker;Professional Certifications and Credentials
+53;Classe0Classe1a;0;27;1;wiper;C1_1151;M;Smoker;Engineering Department
+58;Classe7;0.7;31;1;fitter;C1_1152;M;Smoker;Engineering Department
+59;Classe2Classe1a;0.1;30;1;fitter;C1_1152;M;Smoker;Engineering Department
+37;Classe4Classe1a;0.2;29;1;wiper;C1_1154;M;Smoker;Engineering Department
+30;Classe9;8.1;38;0;wiper;C1_1155;M;Ex-Smoker;Engineering Department
+31;Classe7;1.4;34;1;wiper;C1_1163;M;Smoker;Engineering Department
+31;Classe0Classe1a;0;34;1;wiper;C1_1163;M;Smoker;Engineering Department
+39;Classe0Classe1a;0;28;0;driver;C1_1164;M;Smoker;Shipyard Jobs
+40;Classe5Classe6;2.9;28;0;driver;C1_1164;M;Smoker;Shipyard Jobs
+49;Classe2Classe9;2.1;28;0;wiper;C1_1166;M;Non-Smoker;Engineering Department
+36;Classe2Classe3b;1.9;24;0;1stengineer;C1_1167;M;Smoker;Engineering Positions
+37;Classe2Classe3a;1.3;24;0;1stengineer;C1_1167;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0.3;33;1;wiper;C1_1172;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;33;1;wiper;C1_1172;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;19;1;engineercadet;C1_1176;M;Non-Smoker;Engineering Department
+49;Classe3Classe4a;0.3;24;0;enginerating;C1_1177;M;Non-Smoker;Engineering Positions
+50;Classe2Classe2a;0.3;27;0;enginerating;C1_1177;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;25;1;1stengineer;C1_1178;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;25;1;1stengineer;C1_1178;M;Smoker;Engineering Positions
+52;Classe1Classe7;0.2;27;0;wiper;C1_1180;M;Ex-Smoker;Engineering Department
+53;Classe1Classe7;0;28;0;wiper;C1_1180;M;Ex-Smoker;Engineering Department
+23;Classe0Classe1a;0;20;0;3rdengineer;C1_1184;M;Ex-Smoker;Engineering Positions
+24;Classe2Classe3a;0.4;20;0;engineerofficer;C1_1184;M;Ex-Smoker;Engineering Positions
+38;Classe0Classe1a;0;24;1;ableseaman;C1_1189;M;Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;24;1;ableseaman;C1_1189;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0.1;35;1;chiefengineer;C1_1193;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0;35;1;chiefengineer;C1_1193;M;Non-Smoker;Engineering Positions
+24;Classe7;0.9;27;1;engineerofficer;C1_1194;M;Non-Smoker;Engineering Positions
+42;Classe0Classe1a;2.5;28;1;wiper;C1_1198;M;Smoker;Engineering Department
+43;Classe0Classe1a;0;28;1;wiper;C1_1198;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;27;1;enginerating;C1_1200;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;28;1;enginerating;C1_1200;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;23;1;engineercadet;C1_1203;M;Smoker;Engineering Department
+56;Classe0Classe1a;0;30;0;ableseaman;C1_1212;M;Ex-Smoker;Professional Certifications and Credentials
+22;Classe7;0.8;20;1;engineofficer;C1_1218;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;21;1;engineerofficer;C1_1220;M;Smoker;Engineering Positions
+56;Classe0Classe1a;0;29;1;fitter;C1_1223;M;Non-Smoker;Engineering Department
+57;Classe0Classe1a;0;29;1;fitter;C1_1223;M;Non-Smoker;Engineering Department
+39;Classe7;0.8;36;0;electrician;C1_1228;M;Non-Smoker;Engineering Department
+40;Classe3Classe4a;1.2;36;0;electrician;C1_1228;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;20;1;engineercadet;C1_1229;F;Non-Smoker;Engineering Department
+35;Classe7;1.5;29;1;engineofficer;C1_1231;M;Ex-Smoker;Engineering Positions
+36;Classe0Classe1a;0;27;1;1stengineer;C1_1233;M;Ex-Smoker;Engineering Positions
+22;Classe0Classe0;0;21;1;deckcadet;C1_1239;M;Smoker;Deck Officers
+22;Classe0Classe1a;0.5;20;1;engineercadet;C1_1249;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0;21;1;engineercadet;C1_1249;M;Non-Smoker;Engineering Department
+39;Classe2Classe9;0.1;30;1;engineerofficer;C1_1251;M;Non-Smoker;Engineering Positions
+40;Classe2Classe1a;0.1;30;1;engineerofficer;C1_1251;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0;26;1;electricianassistant;C1_1254;M;Non-Smoker;Shipyard Jobs
+60;Classe9;4.5;28;0;bosun;C1_1255;M;Non-Smoker;Deck Officers
+61;Classe6;3.1;28;0;bosun;C1_1255;M;Non-Smoker;Deck Officers
+19;Classe0Classe1a;0;33;1;engineercadet;C1_1259;M;Smoker;Engineering Department
+43;Classe7;1.3;34;1;chiefengineer;C1_1262;M;Ex-Smoker;Engineering Positions
+44;Classe0Classe1a;0;34;1;chiefengineer;C1_1262;M;Ex-Smoker;Engineering Positions
+38;Classe0Classe1a;0;27;1;1stengineer;C1_1264;M;Non-Smoker;Engineering Positions
+44;Classe0Classe1a;0;32;1;chiefengineer;C1_1265;M;Ex-Smoker;Engineering Positions
+27;Classe7;1.2;28;1;engineerofficer;C1_1267;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;25;1;engineerofficer;C1_1278;M;Ex-Smoker;Engineering Positions
+54;Classe7;1.9;25;1;fitter;C1_1279;M;Ex-Smoker;Engineering Department
+55;Classe0Classe1a;0;24;1;fitter;C1_1279;M;Ex-Smoker;Engineering Department
+32;Classe0Classe1a;0;27;1;engineerofficer;C1_1281;M;Non-Smoker;Engineering Positions
+33;Classe0Classe1a;0;27;1;engineerofficer;C1_1281;M;Non-Smoker;Engineering Positions
+34;classunknow;0;27;1;engineerofficer;C1_1281;M;Non-Smoker;Engineering Positions
+32;Classe7;0.6;33;1;wiper;C1_1284;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;33;1;wiper;C1_1284;M;Smoker;Engineering Department
+59;Classe7;0.3;23;1;fitter;C1_1286;M;Non-Smoker;Engineering Department
+60;Classe1Classe7;0;23;0;fitter;C1_1286;M;Non-Smoker;Engineering Department
+39;Classe7;2;28;1;bosun;C1_1291;M;Smoker;Deck Officers
+40;Classe7;1.4;28;0;bosun;C1_1291;M;Smoker;Deck Officers
+40;Classe0Classe1a;0;25;1;bosun;C1_1291;M;Ex-Smoker;Deck Officers
+56;Classe9;3.6;27;0;ableseaman;C1_1297;M;Smoker;Professional Certifications and Credentials
+57;Classe2Classe3a;1.9;26;0;ableseaman;C1_1297;M;Smoker;Professional Certifications and Credentials
+32;Classe7;1.5;27;1;ableseaman;C1_1301;M;Smoker;Professional Certifications and Credentials
+32;classunknow;0;27;1;ableseaman;C1_1301;M;Smoker;Professional Certifications and Credentials
+19;Classe0Classe1a;0;28;1;engineercadet;C1_1307;M;Non-Smoker;Engineering Department
+45;Classe7;0.6;26;1;chiefengineer;C1_1319;M;Smoker;Engineering Positions
+46;Classe0Classe1a;0;27;1;chiefengineer;C1_1319;M;Smoker;Engineering Positions
+32;Classe7;1.4;26;1;chiefengineer;C1_1323;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;24;1;chiefengineer;C1_1323;M;Smoker;Engineering Positions
+18;Classe0Classe1a;0;23;1;engineercadet;C1_1330;M;Smoker;Engineering Department
+47;Classe2Classe3b;3.4;26;0;wiper;C1_1346;M;Non-Smoker;Engineering Department
+48;Classe3Classe3b;2.1;27;0;wiper;C1_1346;M;Non-Smoker;Engineering Department
+22;Classe0Classe7;0;29;1;electricianassistant;C1_1347;M;Non-Smoker;Shipyard Jobs
+36;Classe1Classe9;0.9;26;0;chiefengineer;C1_1349;M;Non-Smoker;Engineering Positions
+37;Classe2Classe2a;0.7;28;0;chiefengineer;C1_1349;M;Non-Smoker;Engineering Positions
+38;Classe2Classe1a;0.5;26;0;chiefengineer;C1_1349;M;Non-Smoker;Engineering Positions
+30;Classe4Classe1a;0.2;28;1;engineerofficer;C1_1352;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;27;1;engineerofficer;C1_1352;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;27;1;engineerofficer;C1_1353;M;Non-Smoker;Engineering Positions
+47;Classe9;2.7;20;0;ableseaman;C1_1360;M;Smoker;Professional Certifications and Credentials
+48;classunknow;0.4;19;0;ableseaman;C1_1360;M;Smoker;Professional Certifications and Credentials
+39;Classe7;1.6;26;1;ableseaman;C1_1363;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe1Classe2a;0;29;0;chiefengineer;C1_1367;M;Smoker;Engineering Positions
+48;Classe0Classe1a;0;29;0;chiefengineer;C1_1367;M;Smoker;Engineering Positions
+57;Classe7;2.5;30;1;1stengineer;C1_1373;M;Non-Smoker;Engineering Positions
+58;classunknow;0;30;1;1stengineer;C1_1373;M;Non-Smoker;Engineering Positions
+51;Classe0Classe1a;0;24;0;motorman;C1_1375;M;Ex-Smoker;Engineering Department
+21;Classe0Classe1a;0;23;1;engineerofficer;C1_1378;M;Non-Smoker;Engineering Positions
+50;Classe6;18.2;33;0;ableseaman;C1_1380;M;Smoker;Professional Certifications and Credentials
+52;Classe0Classe1a;0;29;1;driver;C1_1381;M;Smoker;Shipyard Jobs
+53;Classe0Classe1a;0;29;0;driver;C1_1381;M;Smoker;Shipyard Jobs
+53;Classe0Classe1a;0;29;1;driver;C1_1381;M;Smoker;Shipyard Jobs
+36;Classe9;0.8;26;1;ableseaman;C1_1385;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;26;1;ableseaman;C1_1385;M;Smoker;Professional Certifications and Credentials
+23;Classe7;2.2;26;0;electricianassistant;C1_1387;M;Smoker;Shipyard Jobs
+24;Classe0Classe1a;0;26;0;electricianassistant;C1_1387;M;Smoker;Shipyard Jobs
+44;Classe7;0.6;26;1;fitter;C1_1388;M;Smoker;Engineering Department
+45;Classe1Classe7;0;28;1;fitter;C1_1388;M;Smoker;Engineering Department
+45;Classe1Classe1a;0;26;1;fitter;C1_1388;M;Smoker;Engineering Department
+48;Classe1Classe2a;0;28;1;enginerating;C1_1389;M;Non-Smoker;Engineering Positions
+35;Classe0Classe1a;0;21;1;enginerating;C1_1391;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;21;1;enginerating;C1_1391;M;Smoker;Engineering Positions
+31;Classe7;2;23;1;wiper;C1_1393;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;23;1;enginerating;C1_1395;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;20;1;engineercadet;C1_1399;M;Smoker;Engineering Department
+64;Classe0Classe1a;0;32;0;bosun;C1_1403;M;Smoker;Deck Officers
+39;Classe0Classe1a;0;24;1;engineerofficer;C1_1410;M;Smoker;Engineering Positions
+25;classunknow;1.4;20;1;3rdengineer;C1_1413;M;Smoker;Engineering Positions
+26;Classe0Classe1a;0;20;1;engineofficer;C1_1413;M;Smoker;Engineering Positions
+21;Classe7;0.6;28;1;engineerofficer;C1_1415;M;Non-Smoker;Engineering Positions
+41;Classe0Classe1a;0.3;24;1;ableseaman;C1_1420;M;Non-Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;24;1;ableseaman;C1_1420;M;Non-Smoker;Professional Certifications and Credentials
+58;Classe4Classe9;1.1;26;0;ableseaman;C1_1427;M;Non-Smoker;Professional Certifications and Credentials
+60;Classe9;8;26;0;electrician;C1_1430;M;Non-Smoker;Engineering Department
+61;Classe5Classe6;6;26;0;electrician;C1_1430;M;Non-Smoker;Engineering Department
+46;Classe2Classe9;0.5;33;1;ableseaman;C1_1431;M;Non-Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;31;1;ableseaman;C1_1431;M;Non-Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;26;1;1stengineer;C1_1441;M;Non-Smoker;Engineering Positions
+35;Classe0Classe1a;0;25;1;chiefengineer;C1_1441;M;Non-Smoker;Engineering Positions
+31;Classe0Classe1a;0.1;27;1;engineofficer;C1_1442;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0.7;27;1;engineofficer;C1_1442;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;27;1;engineerofficer;C1_1442;M;Smoker;Engineering Positions
+37;Classe1Classe1a;0;25;1;ableseaman;C1_1448;M;Smoker;Professional Certifications and Credentials
+58;Classe5Classe3a;3.1;31;0;motorman;C1_1449;M;Ex-Smoker;Engineering Department
+21;Classe0Classe1a;0.3;19;1;engineercadet;C1_1454;M;Non-Smoker;Engineering Department
+24;Classe1Classe1a;0;24;0;engineerofficer;C1_1455;M;Non-Smoker;Engineering Positions
+25;Classe1Classe1a;0;28;0;engineerofficer;C1_1455;M;Non-Smoker;Engineering Positions
+60;Classe5Classe4b;13.1;30;0;fitter;C1_1456;M;Ex-Smoker;Engineering Department
+61;Classe5Classe6;15.5;27;0;fitter;C1_1456;M;Ex-Smoker;Engineering Department
+56;Classe7;1.1;25;0;ableseaman;C1_1460;M;Non-Smoker;Professional Certifications and Credentials
+57;Classe0Classe1a;0;25;0;ableseaman;C1_1460;M;Non-Smoker;Professional Certifications and Credentials
+23;Classe0Classe1a;0;24;1;engineofficer;C1_1461;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;18;1;engineercadet;C1_1469;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;37;1;engineercadet;C1_1480;M;Non-Smoker;Engineering Department
+55;Classe6;3.2;31;0;ableseaman;C1_1481;M;Ex-Smoker;Professional Certifications and Credentials
+56;Classe4Classe7;0.9;31;0;ableseaman;C1_1481;M;Ex-Smoker;Professional Certifications and Credentials
+58;Classe0Classe1a;0;28;1;bosun;C1_1484;M;Ex-Smoker;Deck Officers
+59;Classe0Classe1a;0;28;1;bosun;C1_1484;M;Ex-Smoker;Deck Officers
+32;Classe9;2.3;25;0;wiper;C1_1491;M;Smoker;Engineering Department
+33;Classe1Classe9;0;25;0;wiper;C1_1491;M;Smoker;Engineering Department
+26;Classe7;1.4;28;1;ableseaman;C1_1493;M;Smoker;Professional Certifications and Credentials
+27;Classe0Classe1a;0;31;1;ableseaman;C1_1493;M;Smoker;Professional Certifications and Credentials
+61;Classe9;9.8;27;0;bosun;C1_1494;M;Smoker;Deck Officers
+62;Classe0Classe1a;0;27;0;bosun;C1_1494;M;Smoker;Deck Officers
+56;Classe2Classe2a;0.1;23;1;ableseaman;C1_1495;M;Ex-Smoker;Professional Certifications and Credentials
+49;Classe7;0.9;26;0;bosun;C1_1496;M;Non-Smoker;Deck Officers
+50;Classe0Classe1a;0;26;0;bosun;C1_1496;M;Non-Smoker;Deck Officers
+54;Classe9;3.2;33;0;ableseaman;C1_1500;M;Smoker;Professional Certifications and Credentials
+55;Classe2Classe3a;0.7;33;0;ableseaman;C1_1500;M;Smoker;Professional Certifications and Credentials
+34;Classe7;1.6;29;1;wiper;C1_1501;M;Smoker;Engineering Department
+35;Classe2Classe1a;0.1;33;1;wiper;C1_1501;M;Smoker;Engineering Department
+30;Classe0Classe1a;0.1;21;1;wiper;C1_1503;M;Non-Smoker;Engineering Department
+42;Classe0Classe1a;0;35;1;wiper;C1_1504;M;Smoker;Engineering Department
+38;Classe7;4.1;30;0;chiefengineer;C1_1510;M;Smoker;Engineering Positions
+39;Classe2Classe1a;0;30;0;chiefengineer;C1_1510;M;Smoker;Engineering Positions
+37;Classe7;1.2;21;1;wiper;C1_1511;M;Non-Smoker;Engineering Department
+34;Classe9;3;24;0;engineerofficer;C1_1520;M;Smoker;Engineering Positions
+35;Classe1Classe1a;0;23;0;engineerofficer;C1_1520;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0.1;29;1;wiper;C1_1522;M;Non-Smoker;Engineering Department
+27;Classe0Classe1a;0;23;1;engineerofficer;C1_1527;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0.1;30;1;wiper;C1_1545;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;22;1;1stengineer;C1_1550;M;Non-Smoker;Engineering Positions
+30;classunknow;0;23;1;chiefengineer;C1_1550;M;Non-Smoker;Engineering Positions
+41;Classe5Classe6;19;25;0;wiper;C1_1551;M;Smoker;Engineering Department
+42;Classe3Classe4a;8.8;24;0;wiper;C1_1551;M;Smoker;Engineering Department
+42;Classe0Classe1a;0.1;27;1;fitter;C1_1553;M;Smoker;Engineering Department
+44;Classe0Classe1a;0;27;1;fitter;C1_1553;M;Smoker;Engineering Department
+47;Classe2Classe2a;0.3;21;0;motorman;C1_1554;M;Smoker;Engineering Department
+49;Classe7;2.5;21;1;ableseaman;C1_1558;M;Ex-Smoker;Professional Certifications and Credentials
+50;Classe0Classe1a;0;22;1;ableseaman;C1_1558;M;Ex-Smoker;Professional Certifications and Credentials
+23;Classe0Classe1a;0;30;1;ableseaman;C1_1563;M;Smoker;Professional Certifications and Credentials
+59;classunknow;1.6;26;0;chiefengineer;C1_1566;M;Smoker;Engineering Positions
+60;Classe2Classe3a;0.5;30;0;chiefengineer;C1_1566;M;Smoker;Engineering Positions
+49;Classe3Classe9;5.2;27;0;fitter;C1_1568;M;Smoker;Engineering Department
+49;Classe3Classe3b;3.9;26;0;fitter;C1_1568;M;Smoker;Engineering Department
+34;classunknow;0.2;28;0;wiper;C1_1569;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;37;1;engineercadet;C1_1577;M;Non-Smoker;Engineering Department
+43;Classe7;1.4;27;1;enginerating;C1_1580;M;Smoker;Engineering Positions
+44;Classe0Classe1a;0;28;1;enginerating;C1_1580;M;Smoker;Engineering Positions
+26;Classe7;0.9;26;1;engineerofficer;C1_1582;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;26;1;engineerofficer;C1_1582;M;Smoker;Engineering Positions
+55;classunknow;1.4;29;0;driver;C1_1584;M;Ex-Smoker;Shipyard Jobs
+56;Classe2Classe3a;1.1;29;0;driver;C1_1584;M;Ex-Smoker;Shipyard Jobs
+46;Classe7;0.7;36;1;chiefengineer;C1_1585;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;36;1;chiefengineer;C1_1585;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;34;1;wiper;C1_1589;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;21;1;engineercadet;C1_1590;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0.4;27;0;driver;C1_1605;M;Smoker;Shipyard Jobs
+37;Classe0Classe1a;0;27;0;driver;C1_1605;M;Smoker;Shipyard Jobs
+29;Classe0Classe1a;0.1;27;1;engineerofficer;C1_1610;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;26;1;engineerofficer;C1_1610;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;25;1;electrician;C1_1611;M;Non-Smoker;Engineering Department
+37;Classe0Classe1a;0;26;1;electrician;C1_1611;M;Non-Smoker;Engineering Department
+45;Classe2Classe9;2.3;30;0;ableseaman;C1_1617;M;Smoker;Professional Certifications and Credentials
+22;Classe0Classe1a;0.3;24;1;engineerofficer;C1_1623;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;23;1;engineerofficer;C1_1628;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;27;1;engineerofficer;C1_1628;M;Smoker;Engineering Positions
+23;Classe1Classe2a;0;24;1;engineerofficer;C1_1629;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;24;1;engineerofficer;C1_1629;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;21;1;engineerofficer;C1_1631;M;Smoker;Engineering Positions
+20;Classe0Classe1a;0;28;1;engineercadet;C1_1632;M;Non-Smoker;Engineering Department
+24;Classe7;2.1;26;1;engineerofficer;C1_1641;M;Smoker;Engineering Positions
+24;Classe7;1.6;28;0;engineerofficer;C1_1641;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;28;0;engineerofficer;C1_1641;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;28;0;engineerofficer;C1_1641;M;Smoker;Engineering Positions
+48;Classe1Classe2a;0;24;1;fitter;C1_1644;M;Non-Smoker;Engineering Department
+59;Classe4Classe9;14.2;28;0;bosun;C1_1649;M;Smoker;Deck Officers
+60;Classe4Classe9;14.2;28;0;bosun;C1_1649;M;Smoker;Deck Officers
+49;Classe7;6.2;24;0;driver;C1_1652;M;Ex-Smoker;Shipyard Jobs
+50;Classe2Classe7;0.4;24;0;driver;C1_1652;M;Ex-Smoker;Shipyard Jobs
+44;Classe7Classe7;3;23;0;wiper;C1_1653;M;Non-Smoker;Engineering Department
+45;Classe3Classe4a;4.1;28;0;wiper;C1_1653;M;Non-Smoker;Engineering Department
+37;Classe7;0.6;26;1;wiper;C1_1657;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;25;1;1stengineer;C1_1663;M;Ex-Smoker;Engineering Positions
+42;Classe0Classe1a;0;25;1;1stengineer;C1_1663;M;Ex-Smoker;Engineering Positions
+40;Classe9;1;27;0;wiper;C1_1664;M;Non-Smoker;Engineering Department
+41;Classe0Classe1a;0;21;1;wiper;C1_1665;M;Ex-Smoker;Engineering Department
+43;Classe0Classe1a;0;21;1;wiper;C1_1665;M;Ex-Smoker;Engineering Department
+37;Classe0Classe1a;0;25;1;wiper;C1_1669;M;Non-Smoker;Engineering Department
+37;Classe0Classe1a;0;30;1;1stengineer;C1_1670;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;30;1;1stengineer;C1_1670;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0.1;29;1;ableseaman;C1_1671;M;Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;30;1;ableseaman;C1_1671;M;Smoker;Professional Certifications and Credentials
+41;Classe1Classe1a;0;26;1;wiper;C1_1675;M;Smoker;Engineering Department
+42;Classe1Classe2a;0;28;1;wiper;C1_1675;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;26;1;chiefengineer;C1_1676;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;26;1;chiefengineer;C1_1676;M;Smoker;Engineering Positions
+50;Classe9;18.3;30;0;fitter;C1_1681;M;Smoker;Engineering Department
+56;Classe0Classe1a;0;26;1;ordinaryseaman;C1_1691;M;Smoker;Deck Officers
+44;Classe7;0.6;29;1;ableseaman;C1_1692;M;Smoker;Professional Certifications and Credentials
+45;Classe7;0.6;28;1;ableseaman;C1_1694;M;Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0;26;1;engineerofficer;C1_1698;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;26;1;engineerofficer;C1_1698;M;Smoker;Engineering Positions
+49;Classe0Classe1a;0;28;1;motorman;C1_1705;M;Ex-Smoker;Engineering Department
+25;Classe7;0.6;28;1;engineerofficer;C1_1707;M;Non-Smoker;Engineering Positions
+30;Classe3Classe1a;0.4;24;1;wiper;C1_1720;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;21;1;engineercadet;C1_1721;M;Smoker;Engineering Department
+26;Classe0Classe1a;0;24;1;electricianassistant;C1_1723;M;Smoker;Shipyard Jobs
+45;Classe9;1.9;33;0;ableseaman;C1_1733;M;Smoker;Professional Certifications and Credentials
+46;Classe2Classe3a;1.6;33;0;ableseafarerdeck;C1_1733;M;Smoker;Professional Certifications and Credentials
+49;Classe2Classe9;0.2;44;0;1stengineer;C1_1734;M;Non-Smoker;Engineering Positions
+50;Classe0Classe1a;0;44;0;1stengineer;C1_1734;M;Non-Smoker;Engineering Positions
+37;Classe0Classe1a;0;22;1;engineerofficer;C1_1741;M;Non-Smoker;Engineering Positions
+34;Classe7;1.6;26;1;bosun;C1_1743;M;Smoker;Deck Officers
+35;Classe0Classe1a;0;27;1;bosun;C1_1743;M;Smoker;Deck Officers
+32;Classe0Classe1a;0;24;1;ableseaman;C1_1752;M;Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;24;1;ableseaman;C1_1752;M;Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0;27;0;electrician;C1_1753;M;Non-Smoker;Engineering Department
+47;Classe7;1.5;22;0;enginerating;C1_1755;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;22;1;ableseaman;C1_1756;M;Smoker;Professional Certifications and Credentials
+54;Classe2Classe3a;0.5;27;0;ableseaman;C1_1758;M;Smoker;Professional Certifications and Credentials
+54;Classe0Classe1a;0;29;1;ableseaman;C1_1762;M;Non-Smoker;Professional Certifications and Credentials
+55;Classe0Classe1a;0;29;1;ableseaman;C1_1762;M;Non-Smoker;Professional Certifications and Credentials
+29;Classe7;2.8;23;1;electricianassistant;C1_1766;M;Smoker;Shipyard Jobs
+30;Classe0Classe1a;0;23;1;electrician;C1_1766;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;23;1;engineercadet;C1_1769;M;Smoker;Engineering Department
+46;Classe9;1.6;25;0;enginerating;C1_1770;M;Smoker;Engineering Positions
+47;Classe9;1;25;0;enginerating;C1_1770;M;Smoker;Engineering Positions
+29;Classe5Classe1a;6.8;26;0;engineofficer;C1_1780;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;26;0;engineofficer;C1_1780;M;Smoker;Engineering Positions
+40;Classe0Classe1a;0;37;1;electrician;C1_1783;M;Ex-Smoker;Engineering Department
+41;Classe0Classe1a;0;37;1;electrician;C1_1783;M;Ex-Smoker;Engineering Department
+20;Classe0Classe1a;0;22;1;engineercadet;C1_1784;M;Non-Smoker;Engineering Department
+46;Classe9;1.2;26;0;bosun;C1_1799;M;Non-Smoker;Deck Officers
+47;Classe0Classe1a;0;27;0;bosun;C1_1799;M;Non-Smoker;Deck Officers
+19;Classe2Classe1a;0;24;1;engineercadet;C1_1811;M;Smoker;Engineering Department
+59;Classe6;4;36;0;ableseaman;C1_1819;M;Ex-Smoker;Professional Certifications and Credentials
+60;Classe2Classe3a;1.1;36;0;ableseaman;C1_1819;M;Ex-Smoker;Professional Certifications and Credentials
+56;Classe7;3.7;27;0;chiefengineer;C1_1821;M;Non-Smoker;Engineering Positions
+57;Classe3Classe4a;0.6;27;0;chiefengineer;C1_1821;M;Non-Smoker;Engineering Positions
+46;Classe2Classe3a;0.3;32;0;chiefengineer;C1_1827;M;Non-Smoker;Engineering Positions
+41;Classe7;1.6;21;1;1stengineer;C1_1829;M;Non-Smoker;Engineering Positions
+42;Classe0Classe1a;0;21;1;1stengineer;C1_1829;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;26;1;engineerofficer;C1_1834;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;26;1;3rdengineer;C1_1834;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;28;1;engineerofficer;C1_1835;M;Ex-Smoker;Engineering Positions
+27;Classe0Classe1a;0;31;1;engineerofficer;C1_1835;M;Ex-Smoker;Engineering Positions
+57;Classe2Classe2a;0.1;35;1;electrician;C1_1839;M;Smoker;Engineering Department
+49;Classe2Classe7;0.4;31;0;ableseaman;C1_1842;M;Ex-Smoker;Professional Certifications and Credentials
+50;Classe2Classe1a;0.1;31;0;ableseaman;C1_1842;M;Ex-Smoker;Professional Certifications and Credentials
+44;Classe2Classe3a;0.4;39;0;ableseaman;C1_1843;M;Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;25;1;electricianassistant;C1_1848;M;Smoker;Shipyard Jobs
+33;Classe0Classe1a;0;25;1;electricianassistant;C1_1848;M;Smoker;Shipyard Jobs
+23;Classe0Classe1a;0;29;1;engineerofficer;C1_1858;M;Non-Smoker;Engineering Positions
+23;Classe1Classe9;0;26;1;electricianassistant;C1_1859;M;Non-Smoker;Shipyard Jobs
+24;Classe1Classe1a;0;26;1;electricianassistant;C1_1859;M;Non-Smoker;Shipyard Jobs
+19;Classe0Classe1a;0;24;1;engineercadet;C1_1860;M;Non-Smoker;Engineering Department
+29;Classe7;1.6;32;1;engineerofficer;C1_1868;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;32;1;engineerofficer;C1_1868;M;Smoker;Engineering Positions
+26;Classe2Classe3a;0.1;24;0;wiper;C1_1869;M;Smoker;Engineering Department
+31;Classe0Classe1a;0;27;1;wiper;C1_1889;M;Ex-Smoker;Engineering Department
+39;Classe9;2.9;34;0;wiper;C1_1896;M;Smoker;Engineering Department
+40;Classe1Classe7;0;35;0;wiper;C1_1898;M;Smoker;Engineering Department
+27;Classe3Classe1a;0.5;20;1;electricianassistant;C1_1900;M;Smoker;Shipyard Jobs
+46;Classe0Classe1a;0;31;1;2ndengineer;C1_1906;M;Smoker;Engineering Positions
+48;Classe9;2.8;30;0;fitter;C1_1911;M;Non-Smoker;Engineering Department
+50;Classe2Classe7;0.1;32;0;fitter;C1_1911;M;Non-Smoker;Engineering Department
+53;Classe0Classe1a;0;28;1;wiper;C1_1924;M;Smoker;Engineering Department
+54;Classe0Classe1a;0;28;1;wiper;C1_1924;M;Smoker;Engineering Department
+60;Classe5Classe9;13.2;18;0;ableseaman;C1_1925;M;Smoker;Professional Certifications and Credentials
+60;Classe5Classe9;13;18;0;ableseaman;C1_1925;M;Smoker;Professional Certifications and Credentials
+66;Classe0Classe1a;0;27;1;chiefengineer;C1_1932;M;Non-Smoker;Engineering Positions
+58;Classe9;7;30;0;ableseaman;C1_1942;M;Non-Smoker;Professional Certifications and Credentials
+68;Classe0Classe1a;0;31;0;chiefengineer;C1_1944;M;Non-Smoker;Engineering Positions
+57;Classe4Classe7;1;24;0;electrician;C1_1947;M;Non-Smoker;Engineering Department
+58;Classe0Classe1a;0;24;0;electrician;C1_1947;M;Non-Smoker;Engineering Department
+57;Classe0Classe1a;0;28;0;ableseaman;C1_1949;M;Smoker;Professional Certifications and Credentials
+58;Classe0Classe1a;0;28;0;ableseaman;C1_1949;M;Smoker;Professional Certifications and Credentials
+20;Classe0Classe1a;0;21;1;engineercadet;C1_1953;M;Non-Smoker;Engineering Department
+35;Classe0Classe1a;0;28;1;chiefengineer;C1_1956;M;Smoker;Engineering Positions
+36;Classe1Classe2a;0;26;1;chiefengineer;C1_1956;M;Smoker;Engineering Positions
+50;Classe1Classe9;0;40;0;motorman;C1_1959;M;Non-Smoker;Engineering Department
+51;Classe1Classe1a;0;38;0;motorman;C1_1959;M;Non-Smoker;Engineering Department
+42;Classe2Classe9;0.1;25;0;chiefengineer;C1_1960;M;Ex-Smoker;Engineering Positions
+43;Classe2Classe2a;0.1;25;0;chiefengineer;C1_1960;M;Ex-Smoker;Engineering Positions
+26;Classe2Classe1a;0;21;1;engineerofficer;C1_1965;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;25;1;engineerofficer;C1_1976;M;Ex-Smoker;Engineering Positions
+20;Classe0Classe1a;0;25;1;electricianassistant;C1_1985;M;Smoker;Shipyard Jobs
+39;Classe9;1.1;29;0;ableseaman;C1_1986;M;Smoker;Professional Certifications and Credentials
+40;Classe0Classe1a;0.3;27;0;ableseaman;C1_1986;M;Smoker;Professional Certifications and Credentials
+26;Classe0Classe1a;0.1;20;1;engineerofficer;C1_2001;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;20;1;engineofficer;C1_2001;M;Non-Smoker;Engineering Positions
+18;Classe7;0.8;29;1;engineercadet;C1_2002;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;26;1;engineercadet;C1_2002;M;Smoker;Engineering Department
+29;Classe7;0.6;34;1;electricianassistant;C1_2003;M;Non-Smoker;Shipyard Jobs
+27;Classe0Classe1a;0;24;1;engineerofficer;C1_2005;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;28;1;engineerofficer;C1_2005;M;Smoker;Engineering Positions
+40;Classe7;0.8;26;1;chiefengineer;C1_2008;M;Non-Smoker;Engineering Positions
+41;Classe0Classe1a;0;26;1;chiefengineer;C1_2008;M;Non-Smoker;Engineering Positions
+46;Classe0Classe1a;0;29;0;ableseaman;C1_2017;M;Smoker;Professional Certifications and Credentials
+47;Classe2Classe3b;2.5;29;0;ableseaman;C1_2017;M;Smoker;Professional Certifications and Credentials
+39;Classe7;1.4;33;1;1stengineer;C1_2020;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;23;1;electrician;C1_2032;M;Smoker;Engineering Department
+38;Classe0Classe1a;0.1;32;1;ableseaman;C1_2035;M;Non-Smoker;Professional Certifications and Credentials
+38;Classe7;1.1;32;1;ableseaman;C1_2035;M;Non-Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;35;1;ableseaman;C1_2035;M;Non-Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;22;1;engineercadet;C1_2042;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;26;1;engineercadet;C1_2046;M;Smoker;Engineering Department
+40;Classe0Classe1a;0;25;1;electrician;C1_2048;M;Non-Smoker;Engineering Department
+40;classunknow;0;26;1;electrician;C1_2048;M;Non-Smoker;Engineering Department
+49;Classe9;0.7;33;0;fitter;C1_2052;M;Smoker;Engineering Department
+50;Classe1Classe9;0;32;0;fitter;C1_2052;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;33;1;fitter;C1_2055;M;Smoker;Engineering Department
+35;Classe0Classe1a;0;33;1;fitter;C1_2055;M;Smoker;Engineering Department
+30;Classe7;0.6;29;1;wiper;C1_2067;M;Smoker;Engineering Department
+31;Classe0Classe1a;0;29;1;wiper;C1_2067;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;28;1;engineercadet;C1_2068;M;Smoker;Engineering Department
+48;Classe0Classe1a;0;26;0;electrician;C1_2073;M;Smoker;Engineering Department
+49;Classe7;0;26;0;electrician;C1_2073;M;Smoker;Engineering Department
+61;Classe9;2.5;30;0;chiefengineer;C1_2074;M;Smoker;Engineering Positions
+61;Classe5Classe8;4.5;30;0;chiefengineer;C1_2074;M;Smoker;Engineering Positions
+62;Classe2Classe3b;2.3;30;0;chiefengineer;C1_2074;M;Smoker;Engineering Positions
+54;Classe3Classe3b;3.1;28;0;bosun;C1_2076;M;Ex-Smoker;Deck Officers
+20;Classe0Classe1a;0;23;1;engineercadet;C1_2078;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;45;1;engineercadet;C1_2081;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;45;1;engineercadet;C1_2081;M;Non-Smoker;Engineering Department
+46;Classe3Classe4b;12.5;27;0;chiefengineer;C1_2082;M;Smoker;Engineering Positions
+42;Classe0Classe1a;0;28;1;ableseaman;C1_2083;M;Ex-Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0;25;1;engineercadet;C1_2084;M;Smoker;Engineering Department
+24;Classe7;0.6;26;1;3rdengineer;C1_2085;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;26;1;2ndengineer;C1_2085;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;24;1;engineerofficer;C1_2086;M;Smoker;Engineering Positions
+44;Classe0Classe1a;0.1;25;1;wiper;C1_2089;M;Non-Smoker;Engineering Department
+45;Classe0Classe1a;0;27;1;wiper;C1_2089;M;Non-Smoker;Engineering Department
+70;Classe0Classe1a;0;25;0;chiefengineer;C1_2095;M;Ex-Smoker;Engineering Positions
+71;Classe5Classe5a;23.3;30;0;chiefengineer;C1_2095;M;Ex-Smoker;Engineering Positions
+52;Classe5Classe9;11.5;41;0;ableseaman;C1_2102;M;Non-Smoker;Professional Certifications and Credentials
+53;Classe2Classe9;4.2;41;0;ableseaman;C1_2102;M;Non-Smoker;Professional Certifications and Credentials
+39;Classe7;2.8;29;0;wiper;C1_2108;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;27;1;wiper;C1_2109;M;Non-Smoker;Engineering Department
+39;Classe0Classe1a;0;29;0;wiper;C1_2110;M;Non-Smoker;Engineering Department
+33;Classe7;0.6;28;1;1stengineer;C1_2114;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;28;1;1stengineer;C1_2114;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;27;1;engineercadet;C1_2121;M;Smoker;Engineering Department
+61;Classe9;2.3;27;0;1stengineer;C1_2122;M;Non-Smoker;Engineering Positions
+62;Classe0Classe1a;0;27;0;1stengineer;C1_2122;M;Non-Smoker;Engineering Positions
+19;Classe0Classe1a;0;38;1;engineercadet;C1_2123;M;Smoker;Engineering Department
+36;Classe0Classe1a;0;27;1;electrician;C1_2126;M;Smoker;Engineering Department
+37;Classe0Classe1a;0;27;1;electrician;C1_2126;M;Smoker;Engineering Department
+42;Classe0Classe1a;0;27;1;fitter;C1_2127;M;Smoker;Engineering Department
+43;Classe0Classe1a;0;27;1;fitter;C1_2127;M;Smoker;Engineering Department
+36;Classe7;0.8;35;1;1stengineer;C1_2129;M;Non-Smoker;Engineering Positions
+37;Classe0Classe1a;0;35;1;1stengineer;C1_2129;M;Non-Smoker;Engineering Positions
+48;Classe2Classe2a;0.1;24;0;wiper;C1_2130;M;Non-Smoker;Engineering Department
+49;Classe2Classe3a;1;23;0;wiper;C1_2130;M;Non-Smoker;Engineering Department
+35;Classe7;0.8;27;1;engineerofficer;C1_2134;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;28;1;engineofficer;C1_2134;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;27;1;engineofficer;C1_2138;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;31;1;engineerofficer;C1_2139;M;Non-Smoker;Engineering Positions
+37;Classe7;0.6;29;1;wiper;C1_2143;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0.3;28;1;engineerofficer;C1_2144;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;24;1;ableseaman;C1_2145;M;Smoker;Professional Certifications and Credentials
+28;Classe7;1.2;29;1;electricianassistant;C1_2146;M;Smoker;Shipyard Jobs
+28;Classe0Classe1a;0;26;1;electrician;C1_2146;M;Smoker;Engineering Department
+23;Classe7;0.8;24;1;3rdengineer;C1_2154;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;28;1;wiper;C1_2156;M;Smoker;Engineering Department
+47;Classe1Classe1a;0;28;0;chiefengineer;C1_2158;M;Smoker;Engineering Positions
+46;Classe2Classe1a;0.1;27;1;bosun;C1_2160;M;Ex-Smoker;Deck Officers
+38;Classe0Classe1a;0;27;1;chiefengineer;C1_2161;M;Non-Smoker;Engineering Positions
+35;Classe7;0.6;20;1;chiefengineer;C1_2164;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;20;1;chiefengineer;C1_2164;M;Smoker;Engineering Positions
+37;Classe0Classe1a;0;20;1;chiefengineer;C1_2164;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;22;1;engineercadet;C1_2168;M;Non-Smoker;Engineering Department
+47;classunknow;2.3;25;0;fitter;C1_2170;M;Smoker;Engineering Department
+48;classunknow;0;28;0;fitter;C1_2170;M;Ex-Smoker;Engineering Department
+23;Classe7;0.3;27;1;engineerofficer;C1_2180;M;Non-Smoker;Engineering Positions
+24;Classe7;0;28;1;engineerofficer;C1_2180;M;Non-Smoker;Engineering Positions
+37;Classe1Classe1a;0;28;1;ableseaman;C1_2183;M;Smoker;Professional Certifications and Credentials
+44;Classe0Classe1a;0;26;1;engineerofficer;C1_2186;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;27;1;engineercadet;C1_2190;M;Smoker;Engineering Department
+43;Classe0Classe1a;0.1;42;1;engineerofficer;C1_2193;M;Ex-Smoker;Engineering Positions
+61;Classe5Classe9;4.9;35;0;bosun;C1_2194;M;Non-Smoker;Deck Officers
+44;Classe0Classe1a;0;42;1;engineerofficer;C1_2195;M;Ex-Smoker;Engineering Positions
+46;Classe3Classe4a;1.1;34;0;wiper;C1_2199;M;Smoker;Engineering Department
+47;Classe2Classe1a;0.1;34;0;wiper;C1_2199;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;22;1;engineercadet;C1_2200;M;Non-Smoker;Engineering Department
+33;Classe7;0.6;28;1;wiper;C1_2206;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;28;1;wiper;C1_2206;M;Smoker;Engineering Department
+48;Classe0Classe1a;0;29;1;ableseaman;C1_2215;M;Smoker;Professional Certifications and Credentials
+48;Classe2Classe1a;0.2;28;1;ableseaman;C1_2215;M;Smoker;Professional Certifications and Credentials
+31;Classe7;0.6;31;1;motorman;C1_2216;M;Non-Smoker;Engineering Department
+32;Classe0Classe1a;0;31;1;ableseafarerengine;C1_2216;M;Non-Smoker;Professional Certifications and Credentials
+50;Classe0Classe1a;0;29;1;1stengineer;C1_2220;M;Non-Smoker;Engineering Positions
+51;Classe0Classe1a;0;27;1;1stengineer;C1_2220;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;29;1;engineercadet;C1_2221;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0;32;1;ableseaman;C1_2225;M;Non-Smoker;Professional Certifications and Credentials
+47;Classe2Classe3a;0.3;33;0;ableseaman;C1_2225;M;Non-Smoker;Professional Certifications and Credentials
+35;Classe0Classe1a;0.2;26;1;wiper;C1_2227;M;Smoker;Engineering Department
+36;Classe0Classe1a;0;26;1;wiper;C1_2227;M;Smoker;Engineering Department
+45;Classe7;1.1;34;0;wiper;C1_2230;M;Smoker;Engineering Department
+45;Classe6;3;34;0;wiper;C1_2230;M;Smoker;Engineering Department
+46;Classe0Classe1a;0.1;34;0;wiper;C1_2230;M;Smoker;Engineering Department
+46;Classe9;2.1;31;0;electrician;C1_2231;M;Smoker;Engineering Department
+47;Classe2Classe3a;1.6;31;0;electrician;C1_2231;M;Smoker;Engineering Department
+18;Classe0Classe1a;0;31;1;engineercadet;C1_2236;M;Smoker;Engineering Department
+21;classunknow;0;33;1;engineercadet;C1_2240;M;Smoker;Engineering Department
+27;Classe2Classe1a;0.1;33;1;engineerofficer;C1_2241;M;Non-Smoker;Engineering Positions
+36;Classe7;0.6;29;1;wiper;C1_2242;M;Smoker;Engineering Department
+37;Classe1Classe1a;0;29;1;enginerating;C1_2242;M;Smoker;Engineering Positions
+41;Classe0Classe1a;0;38;1;chiefengineer;C1_2248;M;Smoker;Engineering Positions
+35;Classe1Classe7;0;26;1;ableseaman;C1_2257;M;Non-Smoker;Professional Certifications and Credentials
+29;Classe0Classe1a;0;26;1;electrician;C1_2259;M;Non-Smoker;Engineering Department
+34;Classe0Classe1a;0;24;1;electrician;C1_2263;M;Non-Smoker;Engineering Department
+35;Classe0Classe1a;0;24;1;electrician;C1_2263;M;Non-Smoker;Engineering Department
+35;Classe7;1.5;27;1;electricianassistant;C1_2265;M;Smoker;Shipyard Jobs
+58;Classe3Classe4a;2.2;26;0;electrician;C1_2273;M;Ex-Smoker;Engineering Department
+57;Classe2Classe7;0.7;28;0;wiper;C1_2274;M;Smoker;Engineering Department
+54;Classe0Classe1a;0;40;1;motorman;C1_2278;M;Non-Smoker;Engineering Department
+50;Classe2Classe3a;0.3;29;1;ableseaman;C1_2279;M;Non-Smoker;Professional Certifications and Credentials
+22;Classe1Classe1a;0;29;1;engineercadet;C1_2285;M;Non-Smoker;Engineering Department
+36;Classe7;0.6;35;1;wiper;C1_2289;M;Smoker;Engineering Department
+36;Classe7;0.9;35;1;wiper;C1_2289;M;Smoker;Engineering Department
+39;Classe5Classe1a;2.4;25;0;ableseaman;C1_2291;M;Non-Smoker;Professional Certifications and Credentials
+40;Classe5Classe1a;2.3;25;0;ableseaman;C1_2291;M;Non-Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;27;1;engineofficer;C1_2293;M;Non-Smoker;Engineering Positions
+29;Classe0Classe1a;0;28;1;3rdengineer;C1_2299;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;30;1;engineerofficer;C1_2303;M;Non-Smoker;Engineering Positions
+37;Classe9;1.8;29;0;enginerating;C1_2306;M;Non-Smoker;Engineering Positions
+39;Classe7Classe1a;0.2;28;0;enginerating;C1_2306;M;Non-Smoker;Engineering Positions
+42;Classe0Classe1a;0;25;1;wiper;C1_2307;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;26;1;bosun;C1_2311;M;Non-Smoker;Deck Officers
+22;Classe0Classe1a;0;23;1;engineercadet;C1_2313;M;Smoker;Engineering Department
+23;Classe0Classe1a;0;22;1;engineercadet;C1_2313;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;25;1;fitter;C1_2316;M;Non-Smoker;Engineering Department
+42;Classe0Classe1a;0;25;1;3rdengineer;C1_2316;M;Non-Smoker;Engineering Positions
+21;Classe0Classe1a;0;22;1;engineercadet;C1_2320;M;Non-Smoker;Engineering Department
+36;Classe3Classe2a;0.2;32;1;motorman;C1_2335;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;35;1;motorman;C1_2337;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;26;1;engineercadet;C1_2343;M;Non-Smoker;Engineering Department
+22;Classe0Classe1a;3;29;1;engineerofficer;C1_2343;M;Non-Smoker;Engineering Positions
+35;Classe9;0.6;29;1;wiper;C1_2347;M;Smoker;Engineering Department
+36;Classe1Classe9;0;29;1;wiper;C1_2347;M;Smoker;Engineering Department
+28;Classe7;0.6;26;1;electricianassistant;C1_2352;M;Smoker;Shipyard Jobs
+30;Classe0Classe1a;0;25;1;electricianassistant;C1_2352;M;Smoker;Shipyard Jobs
+26;Classe7;0.8;21;1;engineerofficer;C1_2368;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;21;1;engineerofficer;C1_2368;M;Smoker;Engineering Positions
+32;classunknow;2.1;21;1;engineerofficer;C1_2369;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;21;1;3rdengineer;C1_2369;M;Non-Smoker;Engineering Positions
+35;Classe0Classe1a;0.1;28;1;enginerating;C1_2372;M;Non-Smoker;Engineering Positions
+36;Classe1Classe1a;0;26;1;enginerating;C1_2372;M;Non-Smoker;Engineering Positions
+57;Classe0Classe1a;0;34;0;driver;C1_2373;M;Non-Smoker;Shipyard Jobs
+49;Classe7;1.5;29;1;ableseaman;C1_2379;M;Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;24;1;wiper;C1_2380;M;Smoker;Engineering Department
+59;Classe9;4.9;27;0;wiper;C1_2381;M;Non-Smoker;Engineering Department
+60;Classe3Classe4a;4;29;0;wiper;C1_2381;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0;26;1;1stengineer;C1_2382;M;Non-Smoker;Engineering Positions
+47;Classe0Classe1a;0;26;1;chiefengineer;C1_2382;M;Non-Smoker;Engineering Positions
+47;Classe0Classe1a;0;26;1;chiefengineer;C1_2382;M;Non-Smoker;Engineering Positions
+48;Classe0Classe1a;0;26;1;1stengineer;C1_2382;M;Non-Smoker;Engineering Positions
+29;Classe7;0.8;26;1;engineercadet;C1_2383;M;Smoker;Engineering Department
+26;Classe7;0.8;22;1;engineerofficer;C1_2387;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;23;1;engineerofficer;C1_2387;M;Smoker;Engineering Positions
+27;Classe0Classe7;0.1;27;1;engineerofficer;C1_2391;M;Ex-Smoker;Engineering Positions
+28;Classe0Classe1a;0;27;1;engineerofficer;C1_2391;M;Ex-Smoker;Engineering Positions
+35;Classe2Classe1a;0.1;28;1;ableseaman;C1_2395;M;Smoker;Professional Certifications and Credentials
+39;Classe7;0.6;43;1;1stengineer;C1_2397;M;Smoker;Engineering Positions
+40;Classe0Classe1a;0;32;1;1stengineer;C1_2397;M;Smoker;Engineering Positions
+61;Classe9;7.1;26;0;motorman;C1_2405;M;Ex-Smoker;Engineering Department
+62;Classe9;4.9;26;0;motorman;C1_2407;M;Ex-Smoker;Engineering Department
+59;Classe1Classe1a;0;24;0;motorman;C1_2414;M;Non-Smoker;Engineering Department
+60;Classe1Classe1a;0;24;0;motorman;C1_2414;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;24;1;engineercadet;C1_2420;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;23;1;engineerofficer;C1_2422;M;Smoker;Engineering Positions
+54;Classe1Classe7;0;23;0;ableseaman;C1_2425;M;Smoker;Professional Certifications and Credentials
+29;Classe0Classe1a;0.1;25;1;electricianassistant;C1_2427;M;Smoker;Shipyard Jobs
+30;Classe7;0.6;27;1;electricianassistant;C1_2429;M;Smoker;Shipyard Jobs
+21;Classe0Classe1a;0;22;1;engineercadet;C1_2430;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;28;0;ableseaman;C1_2433;M;Smoker;Professional Certifications and Credentials
+38;Classe7;1.6;31;1;chiefengineer;C1_2436;M;Ex-Smoker;Engineering Positions
+39;Classe0Classe1a;0;31;1;chiefengineer;C1_2438;M;Ex-Smoker;Engineering Positions
+56;Classe2Classe3a;0.3;35;0;chiefengineer;C1_2441;M;Smoker;Engineering Positions
+57;Classe0Classe1a;0;35;0;chiefengineer;C1_2441;M;Smoker;Engineering Positions
+48;Classe7;3.4;28;1;engineerofficer;C1_2450;M;Ex-Smoker;Engineering Positions
+49;Classe0Classe1a;0;29;1;engineerofficer;C1_2450;M;Ex-Smoker;Engineering Positions
+25;Classe0Classe1a;0;38;1;engineerofficer;C1_2453;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;21;1;engineercadet;C1_2455;M;Non-Smoker;Engineering Department
+30;Classe0Classe1a;0;32;1;1stengineer;C1_2457;M;Non-Smoker;Engineering Positions
+31;Classe1Classe2a;0;32;1;1stengineer;C1_2457;M;Non-Smoker;Engineering Positions
+50;Classe2Classe1a;0.1;25;1;ableseaman;C1_2461;M;Smoker;Professional Certifications and Credentials
+45;Classe0Classe1a;0.3;28;1;1stengineer;C1_2463;M;Ex-Smoker;Engineering Positions
+31;Classe0Classe1a;0.1;28;1;motorman;C1_2470;M;Non-Smoker;Engineering Department
+52;Classe0Classe1a;0;32;1;ableseaman;C1_2474;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;30;0;engineofficer;C1_2475;M;Smoker;Engineering Positions
+48;Classe7;0.7;30;0;2ndengineer;C1_2475;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;24;1;engineercadet;C1_2479;M;Non-Smoker;Engineering Department
+46;Classe5Classe2a;3.4;29;0;wiper;C1_2483;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;23;1;engineerofficer;C1_2484;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;28;1;wiper;C1_2486;M;Smoker;Engineering Department
+41;Classe4Classe1a;0.2;30;1;1stengineer;C1_2490;M;Smoker;Engineering Positions
+42;Classe0Classe1a;0;30;1;1stengineer;C1_2490;M;Smoker;Engineering Positions
+52;Classe0Classe1a;0;29;1;chiefengineer;C1_2491;M;Non-Smoker;Engineering Positions
+59;Classe0Classe1a;0;25;1;motorman;C1_2497;M;Smoker;Engineering Department
+60;Classe0Classe1a;0;25;1;motorman;C1_2497;M;Smoker;Engineering Department
+64;Classe0Classe1a;0.6;30;0;ableseaman;C1_2498;M;Non-Smoker;Professional Certifications and Credentials
+55;Classe7;0.8;26;1;chiefengineer;C1_2504;M;Smoker;Engineering Positions
+56;classunknow;0;26;1;chiefengineer;C1_2504;M;Smoker;Engineering Positions
+35;Classe7;0.6;28;1;ableseaman;C1_2506;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;28;1;ableseaman;C1_2506;M;Smoker;Professional Certifications and Credentials
+38;Classe0Classe1a;0;30;1;driver;C1_2517;M;Non-Smoker;Shipyard Jobs
+39;Classe0Classe1a;0;31;1;driver;C1_2517;M;Non-Smoker;Shipyard Jobs
+37;Classe7;0.6;30;1;1stengineer;C1_2521;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0;30;1;1stengineer;C1_2521;M;Non-Smoker;Engineering Positions
+29;Classe7;0.6;29;1;wiper;C1_2532;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;29;1;wiper;C1_2532;M;Smoker;Engineering Department
+38;Classe7;0;36;1;wiper;C1_2533;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0;26;1;chiefengineer;C1_2538;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;28;1;electrician;C1_2546;M;Smoker;Engineering Department
+32;Classe0Classe1a;0.1;34;1;wiper;C1_2547;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;31;1;wiper;C1_2547;M;Smoker;Engineering Department
+27;Classe0Classe1a;0.3;26;1;ableseaman;C1_2550;M;Smoker;Professional Certifications and Credentials
+28;Classe0Classe1a;0;26;1;ableseaman;C1_2550;M;Smoker;Professional Certifications and Credentials
+61;Classe2Classe7;0.7;26;0;bosun;C1_2551;M;Smoker;Deck Officers
+19;Classe0Classe1a;0;19;1;engineercadet;C1_2556;M;Smoker;Engineering Department
+53;Classe9;2.9;31;0;chiefengineer;C1_2559;M;Smoker;Engineering Positions
+54;Classe1Classe2a;0;31;0;chiefengineer;C1_2559;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;26;1;1stengineer;C1_2561;M;Smoker;Engineering Positions
+21;classunknow;0;23;1;engineercadet;C1_2563;M;Non-Smoker;Engineering Department
+38;Classe7;6.6;24;0;engineerofficer;C1_2564;M;Smoker;Engineering Positions
+40;Classe0Classe1a;5.3;24;0;engineerofficer;C1_2564;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;31;1;engineercadet;C1_2574;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;30;0;ableseaman;C1_2577;M;Smoker;Professional Certifications and Credentials
+52;Classe0Classe1a;0;30;0;ableseaman;C1_2577;M;Smoker;Professional Certifications and Credentials
+27;classunknow;0.1;19;1;engineerofficer;C1_2585;M;Smoker;Engineering Positions
+28;Classe2Classe1a;0;19;1;engineerofficer;C1_2585;M;Smoker;Engineering Positions
+49;Classe3Classe9;3.2;33;0;electrician;C1_2592;M;Non-Smoker;Engineering Department
+50;Classe9;2.8;33;0;electrician;C1_2592;M;Non-Smoker;Engineering Department
+41;Classe0Classe1a;0;34;1;motorman;C1_2593;M;Smoker;Engineering Department
+43;Classe7;1.9;28;1;engineerofficer;C1_2595;M;Non-Smoker;Engineering Positions
+44;Classe2Classe7;0.5;28;1;1stengineer;C1_2595;M;Non-Smoker;Engineering Positions
+31;Classe7;1.1;33;1;wiper;C1_2596;M;Smoker;Engineering Department
+28;Classe0Classe1a;0;26;1;wiper;C1_2599;M;Smoker;Engineering Department
+28;Classe0Classe1a;0;23;1;engineercadet;C1_2605;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0;28;1;engineerofficer;C1_2609;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;29;1;engineerofficer;C1_2609;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;30;1;engineerofficer;C1_2610;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;27;1;electricianassistant;C1_2612;M;Non-Smoker;Shipyard Jobs
+26;Classe0Classe1a;0;28;1;electrician;C1_2612;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;18;1;engineercadet;C1_2616;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;25;1;engineercadet;C1_2616;M;Non-Smoker;Engineering Department
+56;Classe9;1;28;0;bosun;C1_2617;M;Non-Smoker;Deck Officers
+57;Classe9;0.7;27;0;bosun;C1_2617;M;Non-Smoker;Deck Officers
+62;Classe2Classe3a;0.6;25;0;electrician;C1_2624;M;Non-Smoker;Engineering Department
+48;Classe7;0.6;30;1;electrician;C1_2628;M;Ex-Smoker;Engineering Department
+21;Classe0Classe1a;0;27;1;engineercadet;C1_2632;M;Smoker;Engineering Department
+37;Classe0Classe1a;0;31;1;ableseaman;C1_2637;M;Smoker;Professional Certifications and Credentials
+43;Classe0Classe1a;0;24;1;1stengineer;C1_2648;M;Smoker;Engineering Positions
+44;Classe2Classe3a;0.4;22;0;1stengineer;C1_2648;M;Smoker;Engineering Positions
+48;Classe0Classe1a;0;28;0;chiefengineer;C1_2649;M;Smoker;Engineering Positions
+49;Classe0Classe1a;0;28;0;chiefengineer;C1_2649;M;Smoker;Engineering Positions
+18;Classe0Classe1a;0.3;19;1;engineercadet;C1_2651;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;19;0;engineercadet;C1_2651;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;19;1;engineercadet;C1_2651;M;Smoker;Engineering Department
+19;Classe3Classe4a;2.2;26;0;engineercadet;C1_2653;M;Non-Smoker;Engineering Department
+20;Classe3Classe4a;1.5;26;0;engineercadet;C1_2653;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;31;1;engineercadet;C1_2659;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;1.2;25;1;electrician;C1_2662;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;25;1;electrician;C1_2662;M;Smoker;Engineering Department
+61;Classe5Classe6;20.8;31;0;bosun;C1_2682;M;Non-Smoker;Deck Officers
+44;Classe7;2.5;32;0;ableseaman;C1_2688;M;Smoker;Professional Certifications and Credentials
+45;Classe0Classe1a;0;32;0;ableseaman;C1_2688;M;Smoker;Professional Certifications and Credentials
+36;Classe0Classe1a;0;26;1;engineerofficer;C1_2690;M;Smoker;Engineering Positions
+54;Classe9;2;26;0;bosun;C1_2694;M;Non-Smoker;Deck Officers
+50;Classe1Classe7;0.3;26;0;fitter;C1_2697;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;26;1;fitter;C1_2697;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;27;1;chiefengineer;C1_2702;M;Smoker;Engineering Positions
+49;Classe7;3;26;0;ableseaman;C1_2704;M;Smoker;Professional Certifications and Credentials
+50;Classe1Classe1a;0;26;0;ableseaman;C1_2704;M;Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;27;1;electrician;C1_2707;M;Ex-Smoker;Engineering Department
+26;Classe0Classe1a;0;29;1;engineerofficer;C1_2710;M;Smoker;Engineering Positions
+35;Classe3Classe1a;0.2;32;1;wiper;C1_2719;M;Non-Smoker;Engineering Department
+28;Classe0Classe1a;0;31;1;ableseaman;C1_2721;M;Smoker;Professional Certifications and Credentials
+53;Classe3Classe4a;5.2;25;0;ableseaman;C1_2727;M;Smoker;Professional Certifications and Credentials
+41;Classe5Classe6;17.2;29;0;ableseaman;C1_2728;M;Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;29;0;ableseaman;C1_2728;M;Smoker;Professional Certifications and Credentials
+45;Classe0Classe0;0;29;1;ableseaman;C1_2729;M;Non-Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;28;1;ableseaman;C1_2730;M;Smoker;Professional Certifications and Credentials
+32;Classe7;4;30;0;fitter;C1_2734;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;30;0;fitter;C1_2734;M;Smoker;Engineering Department
+53;Classe6;2.5;29;1;plumber;C1_2736;M;Ex-Smoker;Engineering Department
+47;Classe9;2.5;29;0;fitter;C1_2739;M;Smoker;Engineering Department
+48;Classe2Classe2a;0.5;26;0;fitter;C1_2739;M;Smoker;Engineering Department
+31;Classe0Classe1a;0.1;31;1;enginerating;C1_2750;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;32;1;enginerating;C1_2750;M;Smoker;Engineering Positions
+56;Classe1Classe9;0;27;0;bosun;C1_2761;M;Smoker;Deck Officers
+57;Classe1Classe2a;0;27;0;bosun;C1_2761;M;Smoker;Deck Officers
+35;Classe9;0.7;27;1;ableseaman;C1_2763;M;Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;28;1;engineercadet;C1_2767;M;Smoker;Engineering Department
+59;Classe5Classe9;9.5;27;0;bosun;C1_2773;M;Smoker;Deck Officers
+60;Classe2Classe2a;0.4;28;0;bosun;C1_2773;M;Smoker;Deck Officers
+45;Classe7;0.6;27;1;ableseaman;C1_2775;M;Smoker;Professional Certifications and Credentials
+46;Classe0Classe1a;0;27;1;ableseaman;C1_2775;M;Smoker;Professional Certifications and Credentials
+28;Classe7;0.6;24;1;engineerofficer;C1_2782;M;Non-Smoker;Engineering Positions
+29;Classe0Classe1a;0;24;1;engineofficer;C1_2782;M;Non-Smoker;Engineering Positions
+19;Classe7;0.6;21;1;engineercadet;C1_2788;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;22;1;engineercadet;C1_2788;M;Non-Smoker;Engineering Department
+27;Classe0Classe1a;0;19;1;engineofficer;C1_2789;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;19;1;1stengineer;C1_2789;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;21;1;1stengineer;C1_2789;M;Non-Smoker;Engineering Positions
+36;Classe0Classe1a;0.1;26;1;chiefengineer;C1_2791;M;Non-Smoker;Engineering Positions
+37;Classe0Classe1a;0;26;1;chiefengineer;C1_2791;M;Non-Smoker;Engineering Positions
+55;Classe5Classe9;6.1;21;0;ableseaman;C1_2797;M;Smoker;Professional Certifications and Credentials
+56;Classe4Classe5a;4.4;21;0;ableseaman;C1_2797;M;Smoker;Professional Certifications and Credentials
+57;Classe0Classe1a;0;21;0;ableseaman;C1_2797;M;Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;25;1;electrician;C1_2798;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;23;1;engineercadet;C1_2802;M;Non-Smoker;Engineering Department
+38;Classe0Classe1a;0;25;1;ableseaman;C1_2803;M;Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;25;1;ableseaman;C1_2803;M;Smoker;Professional Certifications and Credentials
+28;Classe0Classe1a;0;27;1;engineofficer;C1_2805;M;Non-Smoker;Engineering Positions
+21;Classe7;1.4;24;1;engineercadet;C1_2806;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;23;1;engineerofficer;C1_2810;M;Smoker;Engineering Positions
+39;Classe0Classe1a;0;23;1;engineerofficer;C1_2810;M;Smoker;Engineering Positions
+39;classunknow;0;23;1;1stengineer;C1_2810;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;30;1;engineerofficer;C1_2816;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;29;1;engineerofficer;C1_2816;M;Non-Smoker;Engineering Positions
+36;Classe0Classe1a;0.5;28;1;wiper;C1_2817;M;Smoker;Engineering Department
+41;Classe7;1.1;30;1;motorman;C1_2826;M;Non-Smoker;Engineering Department
+43;Classe0Classe1a;0;31;1;motorman;C1_2826;M;Non-Smoker;Engineering Department
+47;Classe3Classe3a;2.1;28;0;bosun;C1_2828;M;Smoker;Deck Officers
+19;Classe7;1.2;24;1;engineercadet;C1_2838;M;Non-Smoker;Engineering Department
+52;Classe7;0.8;27;0;bosun;C1_2845;M;Smoker;Deck Officers
+27;Classe7;1.6;40;1;ableseaman;C1_2846;M;Smoker;Professional Certifications and Credentials
+53;Classe2Classe7;0.2;27;0;bosun;C1_2847;M;Ex-Smoker;Deck Officers
+44;classunknow;0.9;29;1;ableseaman;C1_2850;M;Smoker;Professional Certifications and Credentials
+20;Classe0Classe1a;0;23;1;engineercadet;C1_2854;M;Non-Smoker;Engineering Department
+50;Classe7;0.6;27;1;wiper;C1_2857;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;27;1;wiper;C1_2857;M;Smoker;Engineering Department
+45;Classe7;1.5;26;1;ableseaman;C1_2858;M;Non-Smoker;Professional Certifications and Credentials
+46;Classe0Classe1a;0;26;1;ableseaman;C1_2858;M;Non-Smoker;Professional Certifications and Credentials
+41;Classe7;1.4;24;1;ableseaman;C1_2860;M;Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;24;1;ableseaman;C1_2860;M;Smoker;Professional Certifications and Credentials
+59;Classe0Classe1a;0;29;0;bosun;C1_2866;M;Non-Smoker;Deck Officers
+60;Classe3Classe3a;1.3;29;0;bosun;C1_2866;M;Non-Smoker;Deck Officers
+20;classunknow;0.3;30;1;engineercadet;C1_2869;M;Smoker;Engineering Department
+27;Classe0Classe1a;0;36;1;engineerofficer;C1_2873;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;33;1;engineerofficer;C1_2873;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;25;1;engineercadet;C1_2875;M;Non-Smoker;Engineering Department
+20;Classe3Classe2a;0.3;19;1;engineercadet;C1_2879;M;Non-Smoker;Engineering Department
+35;Classe1Classe1a;0;27;0;ableseaman;C1_2880;M;Smoker;Professional Certifications and Credentials
+21;Classe7;0.6;26;1;engineercadet;C1_2881;M;Non-Smoker;Engineering Department
+59;Classe1Classe7;0;31;1;bosun;C1_2893;M;Smoker;Deck Officers
+60;Classe0Classe1a;0.1;32;1;bosun;C1_2893;M;Smoker;Deck Officers
+21;Classe0Classe1a;0;27;1;engineerofficer;C1_2895;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;22;1;engineercadet;C1_2897;M;Ex-Smoker;Engineering Department
+24;Classe0Classe1a;0;22;1;engineerofficer;C1_2899;M;Non-Smoker;Engineering Positions
+48;Classe7;0.8;27;1;electrician;C1_2905;M;Non-Smoker;Engineering Department
+22;Classe0Classe1a;0;21;1;engineerofficer;C1_2906;M;Smoker;Engineering Positions
+46;Classe7;1.2;25;1;wiper;C1_2909;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;28;1;engineerofficer;C1_2915;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;29;1;engineerofficer;C1_2915;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;23;1;wiper;C1_2916;M;Non-Smoker;Engineering Department
+58;Classe9;0.8;39;0;electrician;C1_2918;M;Non-Smoker;Engineering Department
+60;Classe9;0.8;39;0;electrician;C1_2918;M;Non-Smoker;Engineering Department
+38;Classe7;2.8;28;0;ableseaman;C1_2920;M;Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;28;0;ableseaman;C1_2920;M;Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0.1;25;1;2ndengineer;C1_2922;M;Smoker;Engineering Positions
+40;Classe0Classe1a;0;26;1;engineerofficer;C1_2922;M;Smoker;Engineering Positions
+48;Classe7;0.8;26;1;fitter;C1_2932;M;Smoker;Engineering Department
+49;Classe0Classe1a;0;26;1;fitter;C1_2932;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;23;1;engineofficer;C1_2933;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;23;1;2ndengineer;C1_2933;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;28;1;engineerofficer;C1_2934;M;Smoker;Engineering Positions
+56;Classe4Classe9;0.6;27;0;ableseaman;C1_2945;M;Smoker;Professional Certifications and Credentials
+57;Classe0Classe1a;0;27;0;ableseaman;C1_2945;M;Smoker;Professional Certifications and Credentials
+57;Classe2Classe3a;0.7;27;0;ableseaman;C1_2945;M;Smoker;Professional Certifications and Credentials
+48;Classe2Classe3a;0.4;25;0;fitter;C1_2949;M;Ex-Smoker;Engineering Department
+25;Classe0Classe1a;0;27;1;3rdengineer;C1_2952;M;Non-Smoker;Engineering Positions
+38;Classe7;1.4;25;0;bosun;C1_2953;M;Ex-Smoker;Deck Officers
+39;Classe0Classe1a;0;28;0;bosun;C1_2953;M;Ex-Smoker;Deck Officers
+39;Classe2Classe1a;0.1;29;1;wiper;C1_2955;M;Smoker;Engineering Department
+39;classunknow;0.2;31;1;wiper;C1_2955;M;Smoker;Engineering Department
+37;Classe7;1.5;25;1;driver;C1_2956;M;Smoker;Shipyard Jobs
+38;Classe0Classe1a;0;25;1;driver;C1_2956;M;Smoker;Shipyard Jobs
+41;Classe9;1.3;28;0;ableseaman;C1_2977;M;Smoker;Professional Certifications and Credentials
+42;Classe2Classe1a;0.1;29;0;ableseaman;C1_2977;M;Smoker;Professional Certifications and Credentials
+47;Classe1Classe1a;0;24;1;wiper;C1_2978;M;Smoker;Engineering Department
+47;Classe1Classe1a;0;24;1;wiper;C1_2978;M;Smoker;Engineering Department
+28;Classe0Classe1a;0;25;1;wiper;C1_2983;M;Smoker;Engineering Department
+29;Classe0Classe1a;0;26;1;enginerating;C1_2983;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;26;1;engineerofficer;C1_2990;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;30;1;engineerofficer;C1_2990;M;Smoker;Engineering Positions
+20;Classe0Classe1a;0;29;1;engineercadet;C1_2993;M;Non-Smoker;Engineering Department
+22;Classe0Classe1a;0;26;1;deckofficer;C1_2998;M;Non-Smoker;Deck Officers
+30;Classe0Classe1a;0;24;1;ableseaman;C1_3000;M;Non-Smoker;Professional Certifications and Credentials
+51;Classe9;18.8;27;0;fitter;C1_3003;M;Smoker;Engineering Department
+28;Classe7;2.5;22;1;engineerofficer;C1_3004;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;21;1;engineofficer;C1_3004;M;Smoker;Engineering Positions
+35;Classe0Classe1a;0;28;1;1stengineer;C1_3006;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;28;1;1stengineer;C1_3006;M;Smoker;Engineering Positions
+20;Classe0Classe1a;0;35;1;engineercadet;C1_3007;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;33;1;engineercadet;C1_3007;M;Non-Smoker;Engineering Department
+36;Classe1Classe2b;0.1;27;1;wiper;C1_3008;M;Smoker;Engineering Department
+36;Classe0Classe1a;0;25;1;wiper;C1_3008;M;Smoker;Engineering Department
+37;Classe1Classe1a;0;28;1;enginerating;C1_3008;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0.1;24;1;engineerofficer;C1_3010;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;34;1;electricianassistant;C1_3022;M;Non-Smoker;Shipyard Jobs
+18;Classe0Classe1a;0;30;1;engineercadet;C1_3024;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0;32;1;plumber;C1_3025;M;Ex-Smoker;Engineering Department
+30;Classe0Classe1a;0;29;1;engineerofficer;C1_3027;M;Non-Smoker;Engineering Positions
+59;Classe9;0.9;27;0;wiper;C1_3029;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;24;1;engineerofficer;C1_3035;M;Smoker;Engineering Positions
+55;Classe2Classe2a;0.1;28;0;fitter;C1_3047;M;Non-Smoker;Engineering Department
+56;Classe2Classe3a;0.1;28;0;fitter;C1_3049;M;Non-Smoker;Engineering Department
+62;Classe2Classe8;0.4;28;0;electrician;C1_3051;M;Ex-Smoker;Engineering Department
+43;Classe2Classe1a;0.1;34;1;ableseaman;C1_3052;M;Smoker;Professional Certifications and Credentials
+23;Classe0Classe1a;0;31;1;engineerofficer;C1_3056;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;31;1;engineerofficer;C1_3057;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;31;1;engineerofficer;C1_3057;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0.1;31;1;wiper;C1_3063;M;Non-Smoker;Engineering Department
+31;Classe0Classe1a;0;31;1;wiper;C1_3063;M;Non-Smoker;Engineering Department
+65;Classe0Classe1a;0;28;0;chiefengineer;C1_3065;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0;28;1;ableseaman;C1_3068;M;Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0.1;21;1;engineerofficer;C1_3069;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;21;1;engineerofficer;C1_3069;M;Non-Smoker;Engineering Positions
+41;Classe7;0.8;26;1;ableseaman;C1_3078;M;Non-Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;26;1;ableseaman;C1_3078;M;Non-Smoker;Professional Certifications and Credentials
+54;Classe2Classe3a;1.6;25;0;chiefengineer;C1_3082;M;Non-Smoker;Engineering Positions
+59;Classe0Classe1a;0;29;1;bosun;C1_3093;M;Non-Smoker;Deck Officers
+60;Classe2Classe2a;0.1;29;1;bosun;C1_3093;M;Non-Smoker;Deck Officers
+29;Classe0Classe1a;0;28;1;wiper;C1_3096;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;28;1;wiper;C1_3096;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;21;1;engineerofficer;C1_3097;M;Smoker;Engineering Positions
+32;Classe7;0.6;19;1;wiper;C1_3108;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;19;1;wiper;C1_3108;M;Smoker;Engineering Department
+53;Classe7Classe7;3.4;30;0;electrician;C1_3109;M;Non-Smoker;Engineering Department
+54;Classe3Classe1a;0.4;30;0;electrician;C1_3109;M;Non-Smoker;Engineering Department
+55;Classe2Classe9;1;22;0;motorman;C1_3111;M;Smoker;Engineering Department
+56;Classe0Classe1a;0;22;0;motorman;C1_3111;M;Smoker;Engineering Department
+56;Classe3Classe3b;2.4;21;0;motorman;C1_3111;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;22;1;engineercadet;C1_3112;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;24;1;engineercadet;C1_3116;M;Smoker;Engineering Department
+20;Classe2Classe1a;0.1;19;1;engineercadet;C1_3117;M;Smoker;Engineering Department
+37;classunknow;0;36;1;1stengineer;C1_3120;M;Smoker;Engineering Positions
+50;Classe9;0.7;26;1;wiper;C1_3121;M;Smoker;Engineering Department
+50;Classe0Classe1a;0;26;1;enginerating;C1_3121;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;33;1;engineercadet;C1_3127;M;Non-Smoker;Engineering Department
+45;Classe0Classe1a;0;26;1;wiper;C1_3128;M;Non-Smoker;Engineering Department
+46;Classe0Classe1a;0;26;1;wiper;C1_3128;M;Non-Smoker;Engineering Department
+51;Classe0Classe1a;0;31;0;fitter;C1_3133;M;Smoker;Engineering Department
+53;Classe0Classe1a;0;31;0;fitter;C1_3133;M;Smoker;Engineering Department
+58;Classe0Classe1a;0;28;0;ableseaman;C1_3135;M;Smoker;Professional Certifications and Credentials
+59;Classe2Classe3a;1.3;28;0;ableseaman;C1_3135;M;Smoker;Professional Certifications and Credentials
+24;Classe0Classe1a;0;21;1;engineercadet;C1_3136;M;Non-Smoker;Engineering Department
+41;Classe7;1.6;26;0;wiper;C1_3143;M;Smoker;Engineering Department
+42;Classe0Classe1a;0;26;0;wiper;C1_3143;M;Smoker;Engineering Department
+63;Classe0Classe1a;0;24;1;1stengineer;C1_3146;M;Non-Smoker;Engineering Positions
+42;Classe1Classe9;0.3;20;1;electrician;C1_3147;M;Ex-Smoker;Engineering Department
+56;Classe5Classe9;4.3;28;0;driver;C1_3148;M;Smoker;Shipyard Jobs
+58;Classe2Classe3a;1.1;28;0;driver;C1_3148;M;Smoker;Shipyard Jobs
+43;Classe7;0.6;26;1;engineerofficer;C1_3151;M;Ex-Smoker;Engineering Positions
+44;Classe0Classe1a;0;26;1;1stengineer;C1_3154;M;Ex-Smoker;Engineering Positions
+49;Classe0Classe1a;0;25;1;electrician;C1_3157;M;Ex-Smoker;Engineering Department
+50;Classe0Classe1a;0;25;1;electrician;C1_3157;M;Ex-Smoker;Engineering Department
+63;Classe5Classe9;7.4;23;0;electrician;C1_3164;M;Non-Smoker;Engineering Department
+59;Classe2Classe9;1.4;29;0;bosun;C1_3165;M;Non-Smoker;Deck Officers
+60;Classe2Classe3a;1.2;29;0;bosun;C1_3165;M;Non-Smoker;Deck Officers
+64;Classe2Classe3b;2.2;23;0;electrician;C1_3166;M;Non-Smoker;Engineering Department
+33;Classe3Classe1a;0.2;22;1;enginerating;C1_3168;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;24;1;motorman;C1_3168;M;Smoker;Engineering Department
+46;Classe1Classe1a;0.1;27;0;motorman;C1_3174;M;Smoker;Engineering Department
+47;Classe2Classe3a;1;27;0;motorman;C1_3174;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;22;1;engineercadet;C1_3175;M;Non-Smoker;Engineering Department
+57;Classe9;3.4;30;0;electrician;C1_3178;M;Smoker;Engineering Department
+58;Classe2Classe2a;0.3;30;0;electrician;C1_3178;M;Smoker;Engineering Department
+35;Classe0Classe1a;0;22;1;engineercadet;C1_3180;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0;23;1;engineercadet;C1_3180;M;Non-Smoker;Engineering Department
+50;Classe0Classe1a;0;27;1;ableseaman;C1_3182;M;Non-Smoker;Professional Certifications and Credentials
+52;Classe2Classe1a;0.1;28;1;ableseaman;C1_3182;M;Non-Smoker;Professional Certifications and Credentials
+44;Classe9;1.1;25;0;enginerating;C1_3184;M;Smoker;Engineering Positions
+45;Classe2Classe2a;0.1;25;0;enginerating;C1_3184;M;Smoker;Engineering Positions
+24;Classe0Classe1a;0;20;1;engineerofficer;C1_3193;M;Smoker;Engineering Positions
+20;Classe7;1.2;24;1;engineercadet;C1_3199;M;Smoker;Engineering Department
+54;classunknow;6.1;31;0;1stengineer;C1_3202;M;Non-Smoker;Engineering Positions
+55;Classe6;11;31;0;1stengineer;C1_3202;M;Non-Smoker;Engineering Positions
+28;Classe7;0.6;23;1;engineerofficer;C1_3210;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;23;1;engineerofficer;C1_3210;M;Smoker;Engineering Positions
+33;Classe0Classe1a;0;23;1;engineofficer;C1_3211;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;29;1;engineofficer;C1_3215;M;Smoker;Engineering Positions
+53;Classe9;1.4;27;1;chiefengineer;C1_3219;M;Non-Smoker;Engineering Positions
+54;Classe0Classe1a;0;27;1;chiefengineer;C1_3219;M;Non-Smoker;Engineering Positions
+56;Classe2Classe7;0.4;27;1;electrician;C1_3222;M;Ex-Smoker;Engineering Department
+58;Classe9;1.5;26;1;electrician;C1_3222;M;Ex-Smoker;Engineering Department
+19;Classe0Classe1a;0;23;1;engineercadet;C1_3223;M;Non-Smoker;Engineering Department
+43;Classe2Classe1a;0;25;1;wiper;C1_3227;M;Ex-Smoker;Engineering Department
+44;Classe0Classe1a;0;25;1;wiper;C1_3227;M;Ex-Smoker;Engineering Department
+20;Classe0Classe1a;0;19;1;engineercadet;C1_3228;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;19;1;engineercadet;C1_3228;M;Non-Smoker;Engineering Department
+59;Classe5Classe9;6.1;29;1;ableseaman;C1_3232;M;Smoker;Professional Certifications and Credentials
+60;Classe3Classe3a;1.1;29;0;ableseaman;C1_3232;M;Smoker;Professional Certifications and Credentials
+23;Classe7;3.8;21;0;engineercadet;C1_3236;M;Smoker;Engineering Department
+39;Classe2Classe2a;0.4;25;0;ableseaman;C1_3243;M;Smoker;Professional Certifications and Credentials
+19;Classe0Classe1a;0;26;1;engineercadet;C1_3244;M;Non-Smoker;Engineering Department
+23;Classe7;0.6;36;1;engineerofficer;C1_3246;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;19;1;engineofficer;C1_3247;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;19;1;engineercadet;C1_3251;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;20;1;engineercadet;C1_3251;M;Non-Smoker;Engineering Department
+35;Classe0Classe1a;0;35;1;wiper;C1_3258;M;Smoker;Engineering Department
+37;Classe0Classe1a;0;35;1;wiper;C1_3258;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;26;1;wiper;C1_3263;M;Ex-Smoker;Engineering Department
+23;Classe0Classe1a;0;27;1;engineerofficer;C1_3264;M;Non-Smoker;Engineering Positions
+52;Classe1Classe2a;0;28;0;chiefengineer;C1_3274;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;29;1;wiper;C1_3277;M;Non-Smoker;Engineering Department
+42;Classe2Classe3a;0.7;30;0;bosun;C1_3283;M;Smoker;Deck Officers
+22;Classe0Classe1a;0;24;1;engineerofficer;C1_3284;M;Smoker;Engineering Positions
+42;Classe0Classe1a;0.3;25;1;enginerating;C1_3290;M;Smoker;Engineering Positions
+42;Classe1Classe2a;0;24;1;wiper;C1_3291;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0;25;1;ableseaman;C1_3307;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;25;1;ableseaman;C1_3307;M;Ex-Smoker;Professional Certifications and Credentials
+30;Classe0Classe0;0;28;1;engineerofficer;C1_3318;M;Non-Smoker;Engineering Positions
+31;Classe1Classe9;0;25;1;engineerofficer;C1_3318;M;Non-Smoker;Engineering Positions
+36;Classe0Classe1a;0;27;1;1stengineer;C1_3320;M;Smoker;Engineering Positions
+62;Classe9;9.3;28;0;fitter;C1_3327;M;Non-Smoker;Engineering Department
+63;Classe0Classe1a;0;28;0;fitter;C1_3327;M;Non-Smoker;Engineering Department
+22;classunknow;0;21;1;engineercadet;C1_3328;M;Non-Smoker;Engineering Department
+31;Classe0Classe1a;0;26;1;enginerating;C1_3330;M;Non-Smoker;Engineering Positions
+32;Classe0Classe1a;0;26;1;enginerating;C1_3330;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0.3;21;1;engineercadet;C1_3332;M;Smoker;Engineering Department
+24;Classe0Classe1a;0;23;1;engineercadet;C1_3332;M;Smoker;Engineering Department
+46;Classe9;2.1;25;0;carpenter;C1_3342;M;Smoker;Shipyard Jobs
+47;Classe2Classe8;0.3;26;0;carpenter;C1_3342;M;Smoker;Shipyard Jobs
+49;Classe0Classe1a;0;22;1;electrician;C1_3343;M;Non-Smoker;Engineering Department
+50;Classe0Classe1a;0;22;1;electrician;C1_3343;M;Non-Smoker;Engineering Department
+63;Classe7;1.4;28;0;bosun;C1_3345;M;Smoker;Deck Officers
+64;Classe2Classe7;0.1;28;0;bosun;C1_3345;M;Smoker;Deck Officers
+41;Classe0Classe1a;0;26;0;bosun;C1_3346;M;Smoker;Deck Officers
+28;Classe7;0.6;34;1;ableseaman;C1_3347;M;Smoker;Professional Certifications and Credentials
+30;Classe2Classe2a;0.3;34;1;ableseaman;C1_3347;M;Smoker;Professional Certifications and Credentials
+33;Classe7Classe7;1.5;29;0;enginerating;C1_3351;M;Smoker;Engineering Positions
+34;Classe3Classe1a;0.3;29;0;fitter;C1_3351;M;Smoker;Engineering Department
+49;Classe2Classe8;0.9;25;0;electrician;C1_3354;M;Smoker;Engineering Department
+49;Classe2Classe3a;0.1;25;0;electrician;C1_3354;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;31;0;chiefengineer;C1_3361;M;Ex-Smoker;Engineering Positions
+48;Classe0Classe1a;0;28;1;chiefengineer;C1_3361;M;Ex-Smoker;Engineering Positions
+38;Classe7;1.2;29;1;ableseaman;C1_3362;M;Ex-Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;29;1;ableseaman;C1_3362;M;Ex-Smoker;Professional Certifications and Credentials
+55;Classe9;2;25;0;electrician;C1_3364;M;Smoker;Engineering Department
+56;Classe1Classe2a;0;25;0;electrician;C1_3364;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;33;1;engineercadet;C1_3368;M;Non-Smoker;Engineering Department
+27;Classe7;0.6;26;1;engineerofficer;C1_3369;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;26;1;engineerofficer;C1_3369;M;Non-Smoker;Engineering Positions
+26;Classe0Classe7;0.1;26;1;engineerofficer;C1_3379;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;26;1;3rdengineer;C1_3379;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;25;0;wiper;C1_3381;M;Non-Smoker;Engineering Department
+48;Classe2Classe8;0.3;29;0;wiper;C1_3381;M;Non-Smoker;Engineering Department
+49;Classe0Classe1a;0;30;1;motorman;C1_3385;M;Ex-Smoker;Engineering Department
+50;Classe1Classe2a;0;30;1;motorman;C1_3385;M;Ex-Smoker;Engineering Department
+25;Classe0Classe1a;0;24;1;engineercadet;C1_3386;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;33;1;engineerofficer;C1_3390;M;Non-Smoker;Engineering Positions
+61;Classe9;6.3;27;0;fitter;C1_3393;M;Smoker;Engineering Department
+62;Classe3Classe3b;3.2;28;0;fitter;C1_3393;M;Smoker;Engineering Department
+22;Classe0Classe1a;0.5;22;1;electricianassistant;C1_3395;M;Smoker;Shipyard Jobs
+32;Classe0Classe1a;0;24;1;1stengineer;C1_3398;M;Ex-Smoker;Engineering Positions
+33;Classe0Classe1a;0;24;1;1stengineer;C1_3398;M;Ex-Smoker;Engineering Positions
+39;Classe0Classe1a;0;26;1;engineerofficer;C1_3400;M;Smoker;Engineering Positions
+39;Classe0Classe1a;0;26;1;1stengineer;C1_3400;M;Smoker;Engineering Positions
+50;Classe0Classe7;0;28;1;plumber;C1_3405;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;21;1;engineercadet;C1_3413;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;22;1;engineercadet;C1_3415;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;20;1;engineercadet;C1_3418;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;26;1;engineerofficer;C1_3422;M;Non-Smoker;Engineering Positions
+52;Classe1Classe2a;0;31;0;enginerating;C1_3430;M;Non-Smoker;Engineering Positions
+53;Classe1Classe8;0;31;0;motorman;C1_3430;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;27;1;engineercadet;C1_3432;M;Smoker;Engineering Department
+60;Classe5Classe5a;18.4;28;0;electrician;C1_3433;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;26;1;engineerofficer;C1_3435;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;23;1;engineercadet;C1_3436;M;Non-Smoker;Engineering Department
+23;Classe0Classe1a;0;31;1;engineerofficer;C1_3446;M;Ex-Smoker;Engineering Positions
+32;Classe0Classe1a;0.4;29;1;ableseaman;C1_3450;M;Non-Smoker;Professional Certifications and Credentials
+24;Classe0Classe1a;0;29;1;engineercadet;C1_3453;M;Smoker;Engineering Department
+53;Classe9;3.1;24;0;fitter;C1_3455;M;Smoker;Engineering Department
+54;Classe2Classe1a;0.3;24;0;fitter;C1_3455;M;Smoker;Engineering Department
+21;Classe7;2.4;28;1;engineerofficer;C1_3459;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;29;1;engineofficer;C1_3459;M;Non-Smoker;Engineering Positions
+37;Classe0Classe1a;0.1;31;1;ableseaman;C1_3462;M;Non-Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;24;1;1stengineer;C1_3466;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;23;1;engineerofficer;C1_3471;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;22;1;engineercadet;C1_3473;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;24;1;wiper;C1_3475;M;Smoker;Engineering Department
+45;Classe0Classe1a;0;29;1;wiper;C1_3476;M;Smoker;Engineering Department
+59;Classe9;18.3;30;0;fitter;C1_3479;M;Smoker;Engineering Department
+60;Classe3Classe3a;1.1;30;0;fitter;C1_3479;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;28;1;engineerofficer;C1_3481;M;Smoker;Engineering Positions
+53;Classe2Classe9;2.7;23;0;bosun;C1_3485;M;Non-Smoker;Deck Officers
+54;Classe2Classe9;2.7;23;0;bosun;C1_3485;M;Non-Smoker;Deck Officers
+22;Classe0Classe1a;0;26;1;engineerofficer;C1_3487;M;Smoker;Engineering Positions
+54;Classe0Classe1a;0;27;1;1stengineer;C1_3489;M;Non-Smoker;Engineering Positions
+55;Classe0Classe1a;0;27;1;1stengineer;C1_3489;M;Non-Smoker;Engineering Positions
+53;Classe0Classe1a;0;24;1;ableseaman;C1_3498;M;Smoker;Professional Certifications and Credentials
+54;Classe0Classe1a;0;24;1;ableseaman;C1_3498;M;Smoker;Professional Certifications and Credentials
+19;Classe7;0.8;25;1;engineercadet;C1_3502;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;23;1;engineercadet;C1_3502;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;22;1;engineercadet;C1_3503;M;Smoker;Engineering Department
+50;Classe9;3.6;28;0;bosun;C1_3519;M;Non-Smoker;Deck Officers
+51;Classe4Classe7;0.5;28;0;bosun;C1_3519;M;Non-Smoker;Deck Officers
+54;Classe0Classe1a;0;32;0;1stengineer;C1_3523;M;Non-Smoker;Engineering Positions
+55;Classe0Classe1a;0;32;0;1stengineer;C1_3523;M;Non-Smoker;Engineering Positions
+23;Classe7;0.6;28;1;engineerofficer;C1_3527;M;Ex-Smoker;Engineering Positions
+24;Classe0Classe1a;0;28;1;engineerofficer;C1_3527;M;Ex-Smoker;Engineering Positions
+31;Classe7;0.6;24;1;engineerofficer;C1_3530;M;Smoker;Engineering Positions
+32;classunknow;0;26;1;engineerofficer;C1_3530;M;Smoker;Engineering Positions
+57;Classe0Classe1a;0;26;1;ableseaman;C1_3531;M;Smoker;Professional Certifications and Credentials
+36;Classe0Classe1a;0;24;1;engineerofficer;C1_3545;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;24;1;engineercadet;C1_3546;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;25;1;engineercadet;C1_3547;M;Non-Smoker;Engineering Department
+54;Classe9;1.3;32;1;bosun;C1_3556;M;Smoker;Deck Officers
+30;Classe0Classe1a;0;24;1;engineerofficer;C1_3564;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;23;1;engineerofficer;C1_3566;M;Non-Smoker;Engineering Positions
+43;Classe0Classe1a;0;25;1;ableseaman;C1_3567;M;Smoker;Professional Certifications and Credentials
+44;Classe0Classe1a;0;25;1;ableseaman;C1_3567;M;Smoker;Professional Certifications and Credentials
+20;Classe0Classe1a;0;25;1;engineercadet;C1_3568;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;24;1;engineercadet;C1_3572;M;Non-Smoker;Engineering Department
+20;Classe7;1.4;24;1;engineercadet;C1_3579;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;26;1;engineercadet;C1_3579;M;Non-Smoker;Engineering Department
+46;Classe9;2.3;27;0;ableseaman;C1_3580;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe2Classe3a;0.8;24;0;ableseaman;C1_3580;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe2Classe3a;0.5;22;0;bosun;C1_3580;M;Ex-Smoker;Deck Officers
+23;Classe0Classe1a;0;27;1;engineofficer;C1_3582;M;Smoker;Engineering Positions
+31;Classe7;0.9;26;1;1stengineer;C1_3589;M;Non-Smoker;Engineering Positions
+20;Classe7;0.6;20;1;engineercadet;C1_3590;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;20;1;engineercadet;C1_3590;M;Non-Smoker;Engineering Department
+37;Classe0Classe1a;0;26;1;ableseaman;C1_3591;M;Smoker;Professional Certifications and Credentials
+42;Classe2Classe1a;0;29;1;ableseaman;C1_3593;M;Smoker;Professional Certifications and Credentials
+42;Classe7Classe1a;0.2;27;1;ableseaman;C1_3593;M;Smoker;Professional Certifications and Credentials
+47;Classe9;4;30;0;bosun;C1_3598;M;Smoker;Deck Officers
+48;Classe2Classe8;1.2;30;0;bosun;C1_3598;M;Smoker;Deck Officers
+37;Classe0Classe1a;1.4;30;1;wiper;C1_3600;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;30;1;wiper;C1_3600;M;Smoker;Engineering Department
+38;Classe7;1.6;30;1;wiper;C1_3600;M;Smoker;Engineering Department
+45;Classe2Classe1a;0.5;26;0;engineerofficer;C1_3604;M;Non-Smoker;Engineering Positions
+20;Classe7;0.6;34;1;engineercadet;C1_3610;M;Non-Smoker;Engineering Department
+28;Classe9;0.6;26;1;engineerofficer;C1_3612;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;26;1;engineofficer;C1_3612;M;Smoker;Engineering Positions
+29;Classe1Classe9;0;24;1;engineerofficer;C1_3612;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;31;1;engineercadet;C1_3614;M;Non-Smoker;Engineering Department
+39;Classe0Classe1a;0.2;37;1;electrician;C1_3617;M;Ex-Smoker;Engineering Department
+40;Classe0Classe1a;0;37;1;electrician;C1_3617;M;Ex-Smoker;Engineering Department
+51;Classe7;1.1;30;0;1stengineer;C1_3619;M;Smoker;Engineering Positions
+54;Classe0Classe1a;0;27;0;ableseaman;C1_3621;M;Smoker;Professional Certifications and Credentials
+55;Classe0Classe1a;0;27;0;ableseaman;C1_3621;M;Smoker;Professional Certifications and Credentials
+50;Classe0Classe1a;0;27;1;1stengineer;C1_3630;M;Non-Smoker;Engineering Positions
+51;Classe0Classe1a;0;27;1;1stengineer;C1_3630;M;Non-Smoker;Engineering Positions
+56;Classe0Classe1a;0;27;1;wiper;C1_3631;M;Non-Smoker;Engineering Department
+44;Classe0Classe1a;0;28;1;1stengineer;C1_3635;M;Non-Smoker;Engineering Positions
+54;Classe9;1.6;27;0;wiper;C1_3638;M;Smoker;Engineering Department
+55;Classe2Classe3a;0.1;27;0;wiper;C1_3638;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;28;1;ableseaman;C1_3648;M;Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;28;1;ableseaman;C1_3648;M;Smoker;Professional Certifications and Credentials
+52;Classe0Classe1a;0;38;0;wiper;C1_3649;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;25;1;engineercadet;C1_3654;M;Smoker;Engineering Department
+35;Classe7;0.6;25;0;ableseaman;C1_3657;M;Non-Smoker;Professional Certifications and Credentials
+36;Classe7;0;26;0;ableseaman;C1_3659;M;Non-Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0;26;1;engineercadet;C1_3663;M;Non-Smoker;Engineering Department
+58;Classe9;1;29;1;wiper;C1_3665;M;Smoker;Engineering Department
+59;Classe2Classe2a;0.2;29;1;wiper;C1_3665;M;Smoker;Engineering Department
+21;Classe0Classe1a;0.1;20;1;engineercadet;C1_3666;M;Smoker;Engineering Department
+48;Classe7;0.6;34;0;ableseaman;C1_3673;M;Smoker;Professional Certifications and Credentials
+49;Classe1Classe1a;0.1;35;0;ableseaman;C1_3673;M;Smoker;Professional Certifications and Credentials
+48;Classe1Classe1a;0;26;1;bosun;C1_3675;M;Smoker;Deck Officers
+41;Classe7;2.1;28;0;1stengineer;C1_3678;M;Ex-Smoker;Engineering Positions
+42;Classe1Classe2a;0;31;0;chiefengineer;C1_3678;M;Ex-Smoker;Engineering Positions
+54;Classe0Classe1a;0;35;0;ableseaman;C1_3679;M;Smoker;Professional Certifications and Credentials
+55;Classe2Classe2a;0.2;35;0;ableseaman;C1_3679;M;Smoker;Professional Certifications and Credentials
+22;Classe7;0.6;25;1;engineerofficer;C1_3685;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;29;1;wiper;C1_3686;M;Non-Smoker;Engineering Department
+35;Classe2Classe3a;0.2;29;1;wiper;C1_3686;M;Non-Smoker;Engineering Department
+21;classunknow;0.4;32;1;engineercadet;C1_3691;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;27;1;engineerofficer;C1_3702;M;Smoker;Engineering Positions
+48;Classe0Classe1a;0;31;1;enginerating;C1_3711;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;25;1;engineercadet;C1_3716;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;26;1;wiper;C1_3717;M;Smoker;Engineering Department
+39;Classe0Classe1a;0;24;1;wiper;C1_3717;M;Smoker;Engineering Department
+52;Classe7;2.9;26;1;bosun;C1_3720;M;Smoker;Deck Officers
+53;Classe0Classe1a;0;26;1;bosun;C1_3720;M;Smoker;Deck Officers
+48;Classe3Classe3b;2.5;30;0;enginerating;C1_3722;M;Smoker;Engineering Positions
+50;Classe2Classe3b;2.5;27;0;motorman;C1_3722;M;Ex-Smoker;Engineering Department
+32;Classe7;0.6;32;1;2ndengineer;C1_3725;M;Non-Smoker;Engineering Positions
+20;Classe7;1.4;26;1;engineercadet;C1_3726;M;Non-Smoker;Engineering Department
+32;Classe7;1.5;25;1;wiper;C1_3733;M;Smoker;Engineering Department
+34;Classe1Classe1a;0;25;1;wiper;C1_3735;M;Smoker;Engineering Department
+53;Classe9;2.9;28;0;ableseaman;C1_3758;M;Smoker;Professional Certifications and Credentials
+54;Classe0Classe1a;0;28;0;ableseaman;C1_3758;M;Smoker;Professional Certifications and Credentials
+36;Classe2Classe9;0.7;40;0;fitter;C1_3760;M;Smoker;Engineering Department
+38;Classe1Classe2a;0;38;0;fitter;C1_3760;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;21;1;engineercadet;C1_3762;M;Non-Smoker;Engineering Department
+44;Classe4Classe5a;0.9;25;0;chiefengineer;C1_3766;M;Non-Smoker;Engineering Positions
+45;Classe7Classe7;3.2;25;0;chiefengineer;C1_3766;M;Non-Smoker;Engineering Positions
+46;Classe3Classe2a;0.4;26;0;chiefengineer;C1_3766;M;Non-Smoker;Engineering Positions
+33;Classe7;0.6;33;1;electrician;C1_3776;M;Non-Smoker;Engineering Department
+34;Classe0Classe1a;0;33;1;electrician;C1_3776;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;24;1;engineercadet;C1_3778;M;Smoker;Engineering Department
+36;Classe0Classe1a;0;21;1;ableseaman;C1_3781;M;Non-Smoker;Professional Certifications and Credentials
+57;Classe7Classe7;5.2;26;0;wiper;C1_3790;M;Non-Smoker;Engineering Department
+58;Classe2Classe3a;0.3;26;0;wiper;C1_3790;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;26;1;engineercadet;C1_3791;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;23;1;electrician;C1_3795;M;Smoker;Engineering Department
+31;Classe0Classe1a;0;23;1;electrician;C1_3795;M;Smoker;Engineering Department
+24;Classe0Classe1a;0.1;28;1;wiper;C1_3799;M;Smoker;Engineering Department
+48;Classe0Classe1a;0;37;1;wiper;C1_3801;M;Non-Smoker;Engineering Department
+41;Classe9;2.2;33;0;1stengineer;C1_3814;M;Non-Smoker;Engineering Positions
+42;Classe0Classe1a;0;33;0;1stengineer;C1_3814;M;Non-Smoker;Engineering Positions
+38;Classe0Classe1a;0;31;1;motorman;C1_3815;M;Non-Smoker;Engineering Department
+39;Classe0Classe1a;0;31;1;motorman;C1_3815;M;Non-Smoker;Engineering Department
+19;Classe0Classe1a;0;40;1;engineercadet;C1_3825;M;Smoker;Engineering Department
+23;Classe0Classe1a;0;33;1;engineercadet;C1_3827;M;Smoker;Engineering Department
+50;Classe9;4.5;23;0;1stengineer;C1_3829;M;Smoker;Engineering Positions
+51;Classe3Classe3a;1.4;22;0;1stengineer;C1_3829;M;Smoker;Engineering Positions
+20;Classe0Classe1a;0;21;1;engineercadet;C1_3830;M;Non-Smoker;Engineering Department
+43;Classe7;1.5;29;0;driver;C1_3831;M;Smoker;Shipyard Jobs
+45;Classe2Classe1a;0.1;31;0;driver;C1_3831;M;Smoker;Shipyard Jobs
+35;Classe0Classe1a;0;25;1;electrician;C1_3832;M;Smoker;Engineering Department
+36;Classe0Classe1a;0;25;1;electrician;C1_3832;M;Smoker;Engineering Department
+32;Classe7;0.6;23;1;wiper;C1_3837;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;24;1;wiper;C1_3837;M;Smoker;Engineering Department
+42;Classe0Classe1a;0;25;1;enginerating;C1_3850;M;Smoker;Engineering Positions
+57;Classe7;0.7;22;1;ableseaman;C1_3852;M;Non-Smoker;Professional Certifications and Credentials
+57;Classe2Classe1a;0.1;22;1;ableseaman;C1_3852;M;Non-Smoker;Professional Certifications and Credentials
+28;Classe0Classe1a;0;27;1;engineercadet;C1_3857;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;24;1;engineerofficer;C1_3864;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;23;0;engineerofficer;C1_3864;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;25;1;engineerofficer;C1_3868;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;23;1;engineercadet;C1_3869;M;Smoker;Engineering Department
+20;Classe0Classe1a;0;28;1;engineercadet;C1_3877;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;28;1;engineercadet;C1_3877;M;Non-Smoker;Engineering Department
+43;Classe0Classe1a;0;39;1;wiper;C1_3880;M;Smoker;Engineering Department
+43;classunknow;0;39;1;wiper;C1_3880;M;Smoker;Engineering Department
+60;Classe9;5.6;22;0;ableseaman;C1_3881;M;Smoker;Professional Certifications and Credentials
+61;Classe5Classe9;7;22;0;ableseaman;C1_3883;M;Smoker;Professional Certifications and Credentials
+45;Classe0Classe1a;0;26;1;ableseaman;C1_3887;M;Smoker;Professional Certifications and Credentials
+46;Classe0Classe1a;0;26;1;ableseaman;C1_3891;M;Smoker;Professional Certifications and Credentials
+49;Classe7;0.6;32;1;chiefengineer;C1_3899;M;Non-Smoker;Engineering Positions
+33;Classe2Classe1a;0.2;36;0;ableseaman;C1_3904;M;Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0;26;1;wiper;C1_3905;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;26;1;wiper;C1_3907;M;Non-Smoker;Engineering Department
+56;Classe2Classe9;0.4;27;0;bosun;C1_3911;M;Smoker;Deck Officers
+57;Classe3Classe4a;1.5;27;0;bosun;C1_3911;M;Smoker;Deck Officers
+55;Classe2Classe3b;3.2;26;0;fitter;C1_3917;M;Ex-Smoker;Engineering Department
+56;classunknow;1.6;26;0;fitter;C1_3917;M;Ex-Smoker;Engineering Department
+51;Classe0Classe1a;0;26;0;enginerating;C1_3920;M;Ex-Smoker;Engineering Positions
+52;Classe1Classe2b;0;26;0;enginerating;C1_3920;M;Ex-Smoker;Engineering Positions
+61;Classe5Classe8;13.5;32;0;wiper;C1_3922;M;Non-Smoker;Engineering Department
+62;Classe5Classe8;9.2;30;0;wiper;C1_3922;M;Non-Smoker;Engineering Department
+40;Classe0Classe1a;0;25;1;chiefengineer;C1_3933;M;Non-Smoker;Engineering Positions
+41;Classe7;0.6;27;1;engineerofficer;C1_3934;M;Smoker;Engineering Positions
+41;Classe0Classe1a;0;27;1;engineerofficer;C1_3934;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;22;1;engineerofficer;C1_3936;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;24;1;engineerofficer;C1_3938;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;22;1;engineerofficer;C1_3938;M;Smoker;Engineering Positions
+30;Classe0Classe1a;0;25;1;1stengineer;C1_3939;M;Ex-Smoker;Engineering Positions
+31;Classe0Classe1a;0;25;1;1stengineer;C1_3941;M;Ex-Smoker;Engineering Positions
+25;Classe0Classe1a;0;22;1;engineerofficer;C1_3952;M;Smoker;Engineering Positions
+51;Classe7;1.5;25;0;motorman;C1_3953;M;Smoker;Engineering Department
+46;Classe7;2.1;27;0;ableseaman;C1_3957;M;Smoker;Professional Certifications and Credentials
+47;Classe2Classe1a;0.1;23;0;bosun;C1_3957;M;Smoker;Deck Officers
+26;Classe0Classe1a;0;24;1;electrician;C1_3958;M;Smoker;Engineering Department
+20;classunknow;0;28;1;electricianassistant;C1_3959;M;Non-Smoker;Shipyard Jobs
+46;Classe2Classe1a;0.1;23;1;enginerating;C1_3965;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;23;1;enginerating;C1_3965;M;Smoker;Engineering Positions
+45;Classe2Classe7;0.1;27;1;ableseaman;C1_3966;M;Non-Smoker;Professional Certifications and Credentials
+46;Classe1Classe9;0;26;0;ableseaman;C1_3966;M;Non-Smoker;Professional Certifications and Credentials
+37;Classe7;0.6;25;1;enginerating;C1_3967;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;25;1;enginerating;C1_3967;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0.2;29;1;wiper;C1_3973;M;Non-Smoker;Engineering Department
+41;Classe0Classe1a;0;31;1;electrician;C1_3974;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;30;1;wiper;C1_3975;M;Non-Smoker;Engineering Department
+33;Classe0Classe1a;0.1;26;1;wiper;C1_3976;M;Smoker;Engineering Department
+34;Classe0Classe1a;0;26;1;wiper;C1_3976;M;Smoker;Engineering Department
+24;Classe7;1.3;31;1;wiper;C1_3982;M;Smoker;Engineering Department
+25;Classe7;0.6;31;1;wiper;C1_3982;M;Smoker;Engineering Department
+44;Classe6;5.5;31;0;chiefengineer;C1_3983;M;Ex-Smoker;Engineering Positions
+33;Classe7;2;40;1;engineerofficer;C1_3987;M;Ex-Smoker;Engineering Positions
+34;Classe0Classe1a;0;41;1;engineerofficer;C1_3987;M;Ex-Smoker;Engineering Positions
+25;Classe0Classe1a;0;29;1;3rdengineer;C1_3989;M;Smoker;Engineering Positions
+41;Classe7;1.2;28;1;bosun;C1_3994;M;Non-Smoker;Deck Officers
+42;Classe0Classe1a;0;26;1;bosun;C1_3994;M;Non-Smoker;Deck Officers
+54;Classe3Classe4b;13.5;28;0;bosun;C1_3997;M;Smoker;Deck Officers
+55;Classe3Classe4b;12.2;29;0;bosun;C1_3997;M;Smoker;Deck Officers
+26;Classe7;1.5;39;1;wiper;C1_3998;M;Smoker;Engineering Department
+27;Classe0Classe1a;0.1;39;1;enginerating;C1_3998;M;Smoker;Engineering Positions
+43;Classe0Classe1a;0;24;0;chiefengineer;C1_4002;M;Smoker;Engineering Positions
+44;classunknow;0;26;0;chiefengineer;C1_4002;M;Smoker;Engineering Positions
+38;Classe1Classe1a;0;31;1;1stengineer;C1_4005;M;Ex-Smoker;Engineering Positions
+39;Classe1Classe2a;0;29;1;1stengineer;C1_4005;M;Ex-Smoker;Engineering Positions
+51;Classe2Classe9;2.9;27;0;wiper;C1_4012;M;Smoker;Engineering Department
+52;Classe2Classe3b;0.6;27;0;wiper;C1_4012;M;Smoker;Engineering Department
+44;Classe7;1.5;29;1;driver;C1_4024;M;Smoker;Shipyard Jobs
+46;Classe0Classe1a;0;29;1;driver;C1_4024;M;Smoker;Shipyard Jobs
+27;Classe0Classe1a;0;27;1;ableseaman;C1_4030;M;Smoker;Professional Certifications and Credentials
+20;classunknow;0;25;1;engineercadet;C1_4036;M;Non-Smoker;Engineering Department
+36;Classe1Classe7;0.4;40;0;1stengineer;C1_4037;M;Non-Smoker;Engineering Positions
+36;Classe0Classe1a;0;40;1;1stengineer;C1_4037;M;Non-Smoker;Engineering Positions
+63;Classe9;2.9;38;0;electrician;C1_4038;M;Non-Smoker;Engineering Department
+63;classunknow;2.4;38;0;electrician;C1_4038;M;Non-Smoker;Engineering Department
+23;Classe7;1.2;29;1;wiper;C1_4039;M;Smoker;Engineering Department
+24;Classe0Classe1a;0;29;1;wiper;C1_4039;M;Smoker;Engineering Department
+57;Classe7;1;31;1;bosun;C1_4042;M;Non-Smoker;Deck Officers
+58;Classe9;2.1;31;1;bosun;C1_4042;M;Non-Smoker;Deck Officers
+19;Classe0Classe1a;0;22;1;electricianassistant;C1_4048;M;Smoker;Shipyard Jobs
+38;Classe7Classe4a;3.1;27;0;fitter;C1_4049;M;Ex-Smoker;Engineering Department
+39;Classe0Classe1a;0;27;0;fitter;C1_4049;M;Ex-Smoker;Engineering Department
+47;Classe7;0.8;22;1;wiper;C1_4050;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;32;1;ableseaman;C1_4055;M;Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;31;1;ableseaman;C1_4055;M;Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;31;1;ableseaman;C1_4055;M;Smoker;Professional Certifications and Credentials
+55;Classe5Classe6;5.8;31;0;ableseaman;C1_4057;M;Smoker;Professional Certifications and Credentials
+56;Classe0Classe1a;0;31;0;ableseaman;C1_4057;M;Smoker;Professional Certifications and Credentials
+45;Classe2Classe3a;0.3;29;0;ableseaman;C1_4061;M;Smoker;Professional Certifications and Credentials
+50;Classe1Classe1a;0;27;1;wiper;C1_4063;M;Non-Smoker;Engineering Department
+51;Classe0Classe1a;0;27;1;wiper;C1_4063;M;Non-Smoker;Engineering Department
+20;Classe7;2;27;1;electricianassistant;C1_4064;M;Smoker;Shipyard Jobs
+40;Classe7;0.8;33;1;fitter;C1_4073;M;Ex-Smoker;Engineering Department
+42;Classe0Classe1a;0;33;1;fitter;C1_4073;M;Ex-Smoker;Engineering Department
+54;Classe9;13.4;26;0;chiefengineer;C1_4077;M;Smoker;Engineering Positions
+55;Classe6;9.1;26;0;chiefengineer;C1_4077;M;Smoker;Engineering Positions
+50;Classe9;2.5;23;0;motorman;C1_4079;M;Smoker;Engineering Department
+51;Classe0Classe1a;0;23;0;motorman;C1_4079;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;24;1;enginerating;C1_4080;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;24;1;motorman;C1_4080;M;Smoker;Engineering Department
+29;Classe0Classe1a;0.1;29;1;1stengineer;C1_4081;M;Smoker;Engineering Positions
+48;Classe2Classe3a;0.1;19;0;wiper;C1_4084;M;Non-Smoker;Engineering Department
+31;Classe0Classe1a;0;25;1;engineofficer;C1_4091;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;29;1;engineerofficer;C1_4091;M;Smoker;Engineering Positions
+45;Classe7;1.6;30;0;ableseaman;C1_4092;M;Smoker;Professional Certifications and Credentials
+46;Classe1Classe1a;0.2;30;0;ableseaman;C1_4092;M;Smoker;Professional Certifications and Credentials
+36;Classe7;0.8;32;1;bosun;C1_4100;M;Non-Smoker;Deck Officers
+37;Classe2Classe7;0.1;32;1;bosun;C1_4100;M;Non-Smoker;Deck Officers
+38;Classe1Classe1a;0;28;1;1stengineer;C1_4110;M;Ex-Smoker;Engineering Positions
+39;Classe2Classe1a;0.1;28;1;chiefengineer;C1_4110;M;Smoker;Engineering Positions
+45;Classe3Classe7;2.5;25;0;ableseaman;C1_4111;M;Ex-Smoker;Professional Certifications and Credentials
+22;Classe7;1.1;27;1;wiper;C1_4112;M;Non-Smoker;Engineering Department
+25;Classe7;0.6;21;1;engineercadet;C1_4114;M;Non-Smoker;Engineering Department
+40;Classe7;0.8;34;1;chiefengineer;C1_4116;M;Non-Smoker;Engineering Positions
+40;Classe0Classe1a;0;35;1;chiefengineer;C1_4116;M;Non-Smoker;Engineering Positions
+41;classunknow;0.8;27;1;wiper;C1_4117;M;Smoker;Engineering Department
+42;Classe1Classe1a;0;28;1;wiper;C1_4117;M;Smoker;Engineering Department
+48;Classe0Classe1a;0;27;1;ableseaman;C1_4118;M;Ex-Smoker;Professional Certifications and Credentials
+36;Classe0Classe1a;0;24;1;chiefengineer;C1_4119;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;25;1;chiefengineer;C1_4119;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0.1;24;1;electricianassistant;C1_4125;M;Smoker;Shipyard Jobs
+24;Classe0Classe1a;0;24;1;electrician;C1_4125;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;19;1;engineercadet;C1_4127;M;Non-Smoker;Engineering Department
+27;Classe0Classe1a;0;25;1;engineercadet;C1_4133;M;Smoker;Engineering Department
+50;Classe4Classe1a;0.2;26;1;ableseaman;C1_4134;M;Non-Smoker;Professional Certifications and Credentials
+51;Classe1Classe1a;0;27;1;ableseaman;C1_4134;M;Non-Smoker;Professional Certifications and Credentials
+48;Classe0Classe1a;0;33;1;ableseaman;C1_4135;M;Ex-Smoker;Professional Certifications and Credentials
+40;Classe1Classe1a;0;29;1;ableseaman;C1_4136;M;Ex-Smoker;Professional Certifications and Credentials
+19;Classe0Classe1a;0;20;1;engineercadet;C1_4137;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0.5;31;1;engineercadet;C1_4141;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0.1;27;1;engineercadet;C1_4144;M;Non-Smoker;Engineering Department
+22;Classe0Classe1a;0;28;1;engineercadet;C1_4144;M;Non-Smoker;Engineering Department
+23;Classe7;1.5;21;1;engineerofficer;C1_4151;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;23;1;engineerofficer;C1_4153;M;Smoker;Engineering Positions
+19;Classe0Classe1a;0;38;1;engineercadet;C1_4154;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;24;1;driver;C1_4157;M;Smoker;Shipyard Jobs
+19;Classe0Classe1a;0;26;1;engineercadet;C1_4160;M;Non-Smoker;Engineering Department
+40;Classe0Classe1a;0.9;34;1;engineerofficer;C1_4163;M;Ex-Smoker;Engineering Positions
+41;Classe0Classe1a;0;34;1;engineerofficer;C1_4165;M;Ex-Smoker;Engineering Positions
+23;Classe9;1.5;24;0;3rdengineer;C1_4167;M;Smoker;Engineering Positions
+25;Classe4Classe1a;1.7;24;0;engineofficer;C1_4167;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;28;1;engineercadet;C1_4171;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;21;1;engineercadet;C1_4174;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;21;1;engineercadet;C1_4174;M;Ex-Smoker;Engineering Department
+50;Classe9;2;22;0;motorman;C1_4176;M;Smoker;Engineering Department
+51;Classe2Classe6;2.1;26;0;motorman;C1_4176;M;Smoker;Engineering Department
+27;Classe2Classe7;0.9;32;0;wiper;C1_4178;M;Smoker;Engineering Department
+28;Classe2Classe3b;0.9;25;0;wiper;C1_4178;M;Smoker;Engineering Department
+49;Classe7;1.1;26;0;chiefengineer;C1_4179;M;Non-Smoker;Engineering Positions
+49;Classe0Classe1a;0;26;0;ableseaman;C1_4184;M;Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0;21;1;engineerofficer;C1_4185;M;Non-Smoker;Engineering Positions
+24;Classe0Classe1a;0;32;1;engineercadet;C1_4189;M;Non-Smoker;Engineering Department
+27;Classe7;0.8;26;1;engineercadet;C1_4192;M;Non-Smoker;Engineering Department
+35;Classe0Classe1a;0.2;22;1;wiper;C1_4195;M;Smoker;Engineering Department
+24;Classe0Classe1a;0;27;1;wiper;C1_4197;M;Non-Smoker;Engineering Department
+25;Classe0Classe1a;0;27;1;enginerating;C1_4197;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;25;1;3rdengineer;C1_4198;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;20;1;engineercadet;C1_4204;M;Non-Smoker;Engineering Department
+31;Classe0Classe1a;0;29;1;ableseaman;C1_4209;M;Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;29;1;ableseaman;C1_4209;M;Smoker;Professional Certifications and Credentials
+37;Classe2Classe7;0.3;28;0;engineerofficer;C1_4210;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;26;1;engineerofficer;C1_4213;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;32;1;engineercadet;C1_4215;M;Smoker;Engineering Department
+24;Classe0Classe1a;0;32;1;engineercadet;C1_4215;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;27;1;engineercadet;C1_4216;M;Non-Smoker;Engineering Department
+62;Classe2Classe3a;0.5;16;0;ableseaman;C1_4217;M;Smoker;Professional Certifications and Credentials
+19;Classe0Classe1a;0;24;1;engineercadet;C1_4218;M;Non-Smoker;Engineering Department
+68;Classe0Classe1a;0;24;1;bosun;C1_4221;M;Non-Smoker;Deck Officers
+69;classunknow;0.1;25;1;bosun;C1_4221;M;Non-Smoker;Deck Officers
+59;Classe2Classe3a;0.9;23;0;ableseafarerdeck;C1_4222;M;Smoker;Professional Certifications and Credentials
+21;Classe0Classe1a;0;21;1;engineerofficer;C1_4230;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;21;1;engineofficer;C1_4230;M;Non-Smoker;Engineering Positions
+50;Classe2Classe9;1.4;25;0;chiefengineer;C1_4240;M;Ex-Smoker;Engineering Positions
+57;Classe0Classe1a;0;31;1;motorman;C1_4242;M;Non-Smoker;Engineering Department
+58;Classe2Classe2a;0.1;31;1;motorman;C1_4242;M;Non-Smoker;Engineering Department
+20;Classe0Classe1a;0;30;1;engineercadet;C1_4245;M;Smoker;Engineering Department
+19;Classe0Classe1a;0;26;1;engineercadet;C1_4248;M;Non-Smoker;Engineering Department
+31;Classe0Classe1a;0;26;1;engineerofficer;C1_4251;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;26;1;engineerofficer;C1_4252;M;Non-Smoker;Engineering Positions
+27;Classe7;0.6;20;1;ordinaryseaman;C1_4258;M;Non-Smoker;Deck Officers
+38;Classe0Classe1a;0;23;1;motorman;C1_4264;M;Smoker;Engineering Department
+24;Classe5Classe6;3.8;26;0;ableseaman;C1_4266;M;Non-Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0;23;1;engineofficer;C1_4275;M;Smoker;Engineering Positions
+23;Classe7;0.8;29;1;engineercadet;C1_4283;M;Non-Smoker;Engineering Department
+65;Classe3Classe4b;11.2;25;0;ableseaman;C1_4284;M;Ex-Smoker;Professional Certifications and Credentials
+26;Classe7;0.8;22;1;engineerofficer;C1_4285;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;22;1;engineerofficer;C1_4285;M;Non-Smoker;Engineering Positions
+58;Classe2Classe2a;0.4;23;0;wiper;C1_4287;M;Smoker;Engineering Department
+25;Classe4Classe1a;3;23;0;engineerofficer;C1_4288;M;Smoker;Engineering Positions
+60;Classe9;1.1;26;0;chiefengineer;C1_4293;M;Smoker;Engineering Positions
+61;Classe2Classe2a;0.1;26;0;chiefengineer;C1_4293;M;Ex-Smoker;Engineering Positions
+43;Classe0Classe1a;0;22;1;wiper;C1_4295;M;Smoker;Engineering Department
+26;Classe0Classe1a;0;24;1;engineerofficer;C1_4302;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;25;1;engineerofficer;C1_4302;M;Non-Smoker;Engineering Positions
+27;Classe7;0.9;24;1;electricianassistant;C1_4309;M;Smoker;Shipyard Jobs
+61;Classe9;1;25;0;bosun;C1_4314;M;Non-Smoker;Deck Officers
+41;Classe9;6.3;24;0;wiper;C1_4316;M;Smoker;Engineering Department
+42;Classe3Classe3a;3.6;26;0;wiper;C1_4318;M;Smoker;Engineering Department
+36;Classe4Classe2a;0.2;25;1;ableseaman;C1_4319;M;Smoker;Professional Certifications and Credentials
+37;classunknow;0.3;26;1;ableseaman;C1_4319;M;Smoker;Professional Certifications and Credentials
+35;Classe7;1.3;28;1;ableseaman;C1_4320;M;Smoker;Professional Certifications and Credentials
+28;Classe7;0.6;27;1;engineerofficer;C1_4323;M;Smoker;Engineering Positions
+29;Classe1Classe1a;0;27;1;engineerofficer;C1_4323;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;27;1;engineercadet;C1_4324;M;Non-Smoker;Engineering Department
+21;Classe0Classe1a;0;23;1;engineercadet;C1_4328;M;Smoker;Engineering Department
+24;Classe0Classe1a;0.1;23;1;engineerofficer;C1_4333;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;23;1;engineofficer;C1_4333;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;30;1;engineerofficer;C1_4335;M;Smoker;Engineering Positions
+46;Classe7;0.6;23;1;ableseaman;C1_4337;M;Smoker;Professional Certifications and Credentials
+46;Classe1Classe2a;0;23;1;ableseafarerdeck;C1_4337;M;Smoker;Professional Certifications and Credentials
+51;Classe3Classe1a;1;31;0;chiefengineer;C1_4338;M;Non-Smoker;Engineering Positions
+26;Classe7;1.6;26;1;engineerofficer;C1_4341;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;28;1;engineerofficer;C1_4341;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;27;1;engineercadet;C1_4347;M;Smoker;Engineering Department
+33;Classe0Classe1a;0;28;1;electrician;C1_4351;M;Smoker;Engineering Department
+34;Classe7;0;28;1;electrician;C1_4351;M;Smoker;Engineering Department
+55;Classe9;3.9;30;0;carpenter;C1_4352;M;Smoker;Shipyard Jobs
+22;Classe0Classe1a;0;25;1;engineercadet;C1_4354;M;Non-Smoker;Engineering Department
+30;Classe0Classe1a;0.1;23;1;electricianassistant;C1_4356;M;Non-Smoker;Shipyard Jobs
+49;Classe0Classe1a;0;27;1;chiefengineer;C1_4357;M;Ex-Smoker;Engineering Positions
+50;Classe0Classe1a;0;24;1;chiefengineer;C1_4357;M;Ex-Smoker;Engineering Positions
+22;Classe0Classe1a;0;18;1;electricianassistant;C1_4358;M;Smoker;Shipyard Jobs
+42;Classe7;0.6;28;1;wiper;C1_4363;M;Smoker;Engineering Department
+43;Classe0Classe1a;0;28;1;wiper;C1_4363;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;29;0;wiper;C1_4365;M;Non-Smoker;Engineering Department
+47;Classe1Classe1a;0;29;0;wiper;C1_4365;M;Non-Smoker;Engineering Department
+46;Classe7;0.8;28;1;chiefengineer;C1_4366;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;27;1;chiefengineer;C1_4366;M;Smoker;Engineering Positions
+49;Classe2Classe3a;0.5;30;0;chiefengineer;C1_4367;M;Non-Smoker;Engineering Positions
+39;Classe0Classe1a;0;33;1;chiefengineer;C1_4373;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;26;1;engineerofficer;C1_4374;M;Smoker;Engineering Positions
+44;Classe0Classe1a;0;35;1;wiper;C1_4375;M;Ex-Smoker;Engineering Department
+40;Classe3Classe9;2.6;26;0;engineerofficer;C1_4376;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;21;1;engineerofficer;C1_4378;M;Smoker;Engineering Positions
+23;Classe0Classe1a;0;22;1;engineerofficer;C1_4378;M;Smoker;Engineering Positions
+30;Classe7;0.8;29;1;engineerofficer;C1_4382;M;Non-Smoker;Engineering Positions
+31;Classe0Classe1a;0;29;1;engineerofficer;C1_4382;M;Non-Smoker;Engineering Positions
+44;Classe4Classe7;1.3;28;0;1stengineer;C1_4383;M;Smoker;Engineering Positions
+45;Classe2Classe1a;0;29;0;1stengineer;C1_4383;M;Smoker;Engineering Positions
+41;Classe0Classe1a;0;30;1;ableseaman;C1_4384;M;Smoker;Professional Certifications and Credentials
+32;Classe9;1.6;34;1;ableseaman;C1_4387;M;Non-Smoker;Professional Certifications and Credentials
+58;Classe7;2;30;1;wiper;C1_4388;M;Ex-Smoker;Engineering Department
+59;Classe0Classe1a;0;30;1;wiper;C1_4388;M;Ex-Smoker;Engineering Department
+41;Classe7;0.9;29;1;ableseaman;C1_4400;M;Smoker;Professional Certifications and Credentials
+20;Classe7;0.6;28;1;electricianassistant;C1_4406;M;Smoker;Shipyard Jobs
+32;Classe7;1.1;25;1;ableseaman;C1_4412;M;Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;25;1;ableseaman;C1_4412;M;Smoker;Professional Certifications and Credentials
+38;Classe0Classe1a;0.1;27;1;ableseaman;C1_4417;M;Non-Smoker;Professional Certifications and Credentials
+39;Classe0Classe1a;0;27;1;ableseaman;C1_4417;M;Non-Smoker;Professional Certifications and Credentials
+51;Classe5Classe9;5.8;27;0;1stengineer;C1_4418;M;Smoker;Engineering Positions
+52;Classe2Classe2b;0.9;27;0;1stengineer;C1_4418;M;Smoker;Engineering Positions
+24;classunknow;0;21;1;engineerofficer;C1_4420;M;Non-Smoker;Engineering Positions
+32;Classe0Classe1a;0.1;34;1;ableseaman;C1_4422;M;Smoker;Professional Certifications and Credentials
+46;Classe2Classe7;0;24;1;ableseaman;C1_4428;M;Smoker;Professional Certifications and Credentials
+31;Classe7;0.6;28;1;electrician;C1_4431;M;Ex-Smoker;Engineering Department
+56;Classe2Classe3a;0.1;26;0;carpenter;C1_4434;M;Smoker;Shipyard Jobs
+32;Classe0Classe1a;0;28;1;electrician;C1_4435;M;Ex-Smoker;Engineering Department
+22;Classe0Classe1a;0;29;1;engineerofficer;C1_4436;M;Non-Smoker;Engineering Positions
+55;Classe4Classe6;2.1;34;0;electrician;C1_4437;M;Non-Smoker;Engineering Department
+56;classunknow;0;32;0;electrician;C1_4437;M;Non-Smoker;Engineering Department
+54;Classe2Classe2a;0.3;25;1;ableseaman;C1_4438;M;Ex-Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0.3;37;1;wiper;C1_4439;M;Smoker;Engineering Department
+58;Classe5Classe6;14.3;30;0;fitter;C1_4440;M;Smoker;Engineering Department
+59;Classe3Classe4a;3.3;30;0;fitter;C1_4440;M;Smoker;Engineering Department
+64;Classe0Classe1a;0;24;1;chiefengineer;C1_4445;M;Ex-Smoker;Engineering Positions
+45;Classe0Classe1a;0;26;1;wiper;C1_4447;M;Smoker;Engineering Department
+46;Classe1Classe1a;0;26;1;wiper;C1_4447;M;Smoker;Engineering Department
+59;Classe9;7.2;37;0;driver;C1_4451;M;Smoker;Shipyard Jobs
+60;Classe3Classe8;2;37;0;driver;C1_4451;M;Smoker;Shipyard Jobs
+36;Classe3Classe3b;2.1;28;0;chiefengineer;C1_4453;M;Non-Smoker;Engineering Positions
+37;Classe3Classe3a;0.6;26;0;chiefengineer;C1_4453;M;Non-Smoker;Engineering Positions
+38;Classe3Classe3a;0.5;26;0;chiefengineer;C1_4453;M;Non-Smoker;Engineering Positions
+38;Classe2Classe7;0.4;34;0;engineerofficer;C1_4454;M;Smoker;Engineering Positions
+39;Classe7;0;34;0;engineerofficer;C1_4454;M;Smoker;Engineering Positions
+39;Classe0Classe1a;0;32;0;engineerofficer;C1_4454;M;Smoker;Engineering Positions
+48;Classe1Classe1a;0;24;1;motorman;C1_4456;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;25;1;engineerofficer;C1_4457;M;Smoker;Engineering Positions
+29;classunknow;0.5;25;0;wiper;C1_4458;M;Smoker;Engineering Department
+26;Classe7;0.8;36;1;engineerofficer;C1_4464;M;Smoker;Engineering Positions
+27;Classe0Classe1a;0;36;1;engineerofficer;C1_4464;M;Smoker;Engineering Positions
+21;Classe0Classe1a;0;27;1;engineerofficer;C1_4473;M;Smoker;Engineering Positions
+51;Classe0Classe1a;0;24;1;wiper;C1_4475;M;Ex-Smoker;Engineering Department
+51;Classe1Classe1a;0;24;1;wiper;C1_4475;M;Ex-Smoker;Engineering Department
+21;classunknow;0.6;22;1;engineercadet;C1_4486;M;Smoker;Engineering Department
+21;Classe0Classe1a;0;23;1;engineercadet;C1_4486;M;Smoker;Engineering Department
+37;Classe0Classe1a;0;26;1;ableseaman;C1_4488;M;Smoker;Professional Certifications and Credentials
+31;Classe0Classe1a;0.1;28;1;ableseaman;C1_4489;M;Smoker;Professional Certifications and Credentials
+32;Classe0Classe1a;0;29;1;ableseaman;C1_4489;M;Smoker;Professional Certifications and Credentials
+33;Classe0Classe1a;0;25;1;engineofficer;C1_4492;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;25;1;engineerofficer;C1_4492;M;Non-Smoker;Engineering Positions
+20;Classe0Classe1a;0;23;1;engineercadet;C1_4493;M;Non-Smoker;Engineering Department
+24;Classe7;0.6;27;1;engineerofficer;C1_4494;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;27;1;engineerofficer;C1_4494;M;Non-Smoker;Engineering Positions
+61;Classe5Classe9;2.9;29;0;ableseaman;C1_4496;M;Smoker;Professional Certifications and Credentials
+23;Classe7;0.6;26;1;engineerofficer;C1_4498;M;Smoker;Engineering Positions
+25;Classe0Classe1a;0;26;1;engineerofficer;C1_4498;M;Smoker;Engineering Positions
+25;Classe7;1.8;25;1;engineofficer;C1_4500;M;Non-Smoker;Engineering Positions
+34;Classe0Classe1a;0;34;1;engineofficer;C1_4504;M;Smoker;Engineering Positions
+48;Classe9;2.7;26;0;motorman;C2_4;M;Ex-Smoker;Engineering Department
+49;Classe1Classe2a;0.1;28;0;fitter;C2_4;M;Ex-Smoker;Engineering Department
+52;Classe2Classe2b;0.1;24;0;ableseafarerdeck;C2_7;M;Smoker;Professional Certifications and Credentials
+24;Classe0Classe1a;0;23;1;traineeelectrician;C2_9;M;Smoker;Shipyard Jobs
+25;Classe0Classe1a;0;26;1;traineeelectrician;C2_9;M;Smoker;Shipyard Jobs
+46;Classe7;0.6;30;1;electrician;C2_10;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;30;1;electrician;C2_10;M;Smoker;Engineering Department
+49;Classe0Classe1a;0;22;1;electrician;C2_12;M;Ex-Smoker;Engineering Department
+50;Classe0Classe1a;0;22;1;electrician;C2_12;M;Ex-Smoker;Engineering Department
+24;Classe7;0.6;23;1;engineerdeck;C2_17;M;Smoker;Engineering Positions
+41;Classe0Classe1a;0;27;1;electrotechnicalofficer;C2_21;M;Smoker;Shipyard Jobs
+42;Classe0Classe1a;0;27;1;electrician;C2_21;M;Smoker;Engineering Department
+25;Classe0Classe1a;0;29;1;4thengineer;C2_29;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;29;1;engineofficer;C2_29;M;Non-Smoker;Engineering Positions
+55;Classe0Classe1a;0;30;0;ableseaman;C2_31;M;Non-Smoker;Professional Certifications and Credentials
+56;Classe2Classe3a;0.5;30;0;ableseaman;C2_31;M;Non-Smoker;Professional Certifications and Credentials
+25;Classe0Classe1a;0;23;1;electrician;C2_32;M;Non-Smoker;Engineering Department
+26;Classe0Classe1a;0;23;1;electrician;C2_32;M;Non-Smoker;Engineering Department
+55;Classe9;13.3;26;0;2ndengineer;C2_33;M;Smoker;Engineering Positions
+56;Classe0Classe1a;0;26;0;2ndengineer;C2_33;M;Smoker;Engineering Positions
+39;Classe7;1.3;28;1;ordinaryseaman;C2_35;M;Smoker;Deck Officers
+33;Classe0Classe1a;0;25;1;ableseaman;C2_37;M;Non-Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;25;1;ableseaman;C2_37;M;Non-Smoker;Professional Certifications and Credentials
+53;Classe0Classe1a;0;30;0;chiefengineer;C2_43;M;Smoker;Engineering Positions
+54;Classe0Classe1a;0;30;0;chiefengineer;C2_43;M;Smoker;Engineering Positions
+29;Classe0Classe1a;0;22;1;engineofficer;C2_58;M;Ex-Smoker;Engineering Positions
+45;Classe0Classe1a;0;28;0;fitter;C2_60;M;Non-Smoker;Engineering Department
+48;Classe2Classe3a;1.1;34;0;wiper;C2_65;M;Smoker;Engineering Department
+22;Classe0Classe1a;0;24;1;traineeelectrician;C2_66;M;Smoker;Shipyard Jobs
+32;Classe0Classe1a;0;27;1;3rdengineer;C2_71;M;Non-Smoker;Engineering Positions
+33;Classe0Classe1a;0;27;1;3rdengineer;C2_71;M;Non-Smoker;Engineering Positions
+51;Classe7;0.1;26;0;chiefengineer;C2_73;M;Non-Smoker;Engineering Positions
+52;Classe0Classe1a;0;26;0;chiefengineer;C2_73;M;Non-Smoker;Engineering Positions
+49;Classe0Classe1a;0;25;0;chiefengineer;C2_74;M;Non-Smoker;Engineering Positions
+51;Classe0Classe1a;0;25;0;chiefengineer;C2_74;M;Non-Smoker;Engineering Positions
+64;Classe0Classe1a;0;29;0;motorman;C2_76;M;Smoker;Engineering Department
+65;Classe0Classe1a;0;29;0;motorman;C2_76;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;24;1;electrician;C2_79;M;Non-Smoker;Engineering Department
+45;Classe7;1.4;38;1;wiper;C2_80;M;Non-Smoker;Engineering Department
+46;Classe7;0.6;38;1;fitter;C2_80;M;Non-Smoker;Engineering Department
+38;Classe0Classe1a;0;31;1;ordinaryseaman;C2_82;M;Smoker;Deck Officers
+51;Classe2Classe9;0.9;28;0;ableseaman;C2_84;M;Non-Smoker;Professional Certifications and Credentials
+52;Classe3Classe4a;1.9;28;0;ableseaman;C2_84;M;Non-Smoker;Professional Certifications and Credentials
+57;Classe9;2.2;25;0;bosun;C2_86;M;Ex-Smoker;Deck Officers
+47;Classe9;2.4;32;0;fitter;C2_88;M;Smoker;Engineering Department
+39;Classe0Classe1a;0;29;1;ordinaryseaman;C2_90;M;Smoker;Deck Officers
+27;Classe0Classe1a;0;24;1;3rdengineer;C2_91;M;Non-Smoker;Engineering Positions
+28;Classe0Classe1a;0;24;1;3rdengineer;C2_91;M;Non-Smoker;Engineering Positions
+29;Classe0Classe1a;0;23;1;3rdengineer;C2_91;M;Non-Smoker;Engineering Positions
+31;Classe0Classe1a;0;35;1;engineerating;C2_95;M;Smoker;Engineering Positions
+32;Classe0Classe1a;0;35;0;engineerating;C2_95;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;33;1;ableseaman;C2_96;M;Non-Smoker;Professional Certifications and Credentials
+42;Classe0Classe1a;0;22;1;engineerating;C2_98;M;Smoker;Engineering Positions
+22;Classe0Classe1a;0;40;1;wiper;C2_100;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;25;1;engineerating;C2_103;M;Non-Smoker;Engineering Positions
+47;Classe0Classe1a;0;25;1;engineerating;C2_103;M;Non-Smoker;Engineering Positions
+34;Classe0Classe0;0;31;0;wiper;C2_105;M;Non-Smoker;Engineering Department
+35;Classe0Classe1a;0;31;0;enginerating;C2_105;M;Non-Smoker;Engineering Positions
+35;Classe7;3.2;33;0;ableseaman;C2_106;M;Smoker;Professional Certifications and Credentials
+36;Classe3Classe4a;2.4;33;0;ableseaman;C2_106;M;Smoker;Professional Certifications and Credentials
+35;Classe7;0.9;24;0;2ndengineer;C2_108;M;Non-Smoker;Engineering Positions
+39;Classe7;0.6;23;1;ableseaman;C2_109;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;20;0;electrician;C2_110;M;Smoker;Engineering Department
+31;Classe1Classe1a;0;29;1;wiper;C2_111;M;Non-Smoker;Engineering Department
+32;Classe2Classe1a;0.1;28;1;wiper;C2_111;M;Non-Smoker;Engineering Department
+33;Classe0Classe1a;0;24;1;wiper;C2_113;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0;24;1;3rdengineer;C2_114;M;Smoker;Engineering Positions
+37;Classe0Classe1a;0;24;1;3rdengineer;C2_114;M;Smoker;Engineering Positions
+35;Classe0Classe1a;0;32;1;wiper;C2_115;M;Non-Smoker;Engineering Department
+36;Classe0Classe1a;0;31;1;wiper;C2_115;M;Non-Smoker;Engineering Department
+28;Classe0Classe1a;0.1;28;1;traineeelectrician;C2_128;M;Smoker;Shipyard Jobs
+29;Classe0Classe1a;0;28;1;electrician;C2_128;M;Smoker;Engineering Department
+23;Classe7;1.4;27;1;deckcadet;C2_129;M;Non-Smoker;Deck Officers
+47;Classe0Classe1a;0;27;1;bosun;C2_133;M;Ex-Smoker;Deck Officers
+21;Classe0Classe1a;0;29;0;deckboy;C2_135;M;Non-Smoker;Deck Officers
+32;Classe0Classe1a;0;30;1;ordinaryseaman;C2_138;M;Non-Smoker;Deck Officers
+42;Classe0Classe1a;0;33;1;bosun;C2_140;M;Ex-Smoker;Deck Officers
+43;Classe0Classe1a;0;31;1;bosun;C2_140;M;Ex-Smoker;Deck Officers
+43;Classe0Classe1a;0;28;1;bosun;C2_140;M;Smoker;Deck Officers
+31;Classe0Classe1a;0;28;1;wiper;C2_145;M;Smoker;Engineering Department
+32;Classe0Classe1a;0;28;1;enginerating;C2_145;M;Smoker;Engineering Positions
+36;Classe3Classe4a;2.1;25;0;ableseaman;C2_146;M;Ex-Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;25;1;chiefengineer;C2_148;M;Non-Smoker;Engineering Positions
+47;Classe0Classe1a;0;25;1;chiefengineer;C2_148;M;Non-Smoker;Engineering Positions
+48;Classe0Classe1a;0;25;1;chiefengineer;C2_148;M;Non-Smoker;Engineering Positions
+29;Classe7;2;26;1;engineercadet;C2_151;M;Smoker;Engineering Department
+30;Classe0Classe1a;0;26;1;engineofficer;C2_151;M;Smoker;Engineering Positions
+34;Classe0Classe1a;0;23;0;deckboy;C2_152;M;Smoker;Deck Officers
+53;classunknow;0.9;27;1;2ndengineer;C2_154;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;24;1;electrician;C2_155;M;Non-Smoker;Engineering Department
+42;Classe0Classe0;0;26;0;motorman;C2_159;M;Non-Smoker;Engineering Department
+43;Classe0Classe1a;0;26;0;motorman;C2_159;M;Non-Smoker;Engineering Department
+44;Classe0Classe1a;0;26;0;motorman;C2_159;M;Non-Smoker;Engineering Department
+54;Classe2Classe3a;0.4;24;1;ableseaman;C2_160;M;Non-Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0.5;30;1;ableseaman;C2_166;M;Smoker;Professional Certifications and Credentials
+38;Classe1Classe1a;0;31;1;ableseaman;C2_166;M;Smoker;Professional Certifications and Credentials
+53;Classe0Classe0;0;29;1;ableseaman;C2_168;M;Non-Smoker;Professional Certifications and Credentials
+38;Classe7;2.1;25;0;2ndengineer;C2_178;M;Non-Smoker;Engineering Positions
+39;Classe1Classe1a;0.1;25;0;2ndengineer;C2_178;M;Non-Smoker;Engineering Positions
+61;Classe9;4.6;29;0;fitter;C2_181;M;Ex-Smoker;Engineering Department
+62;Classe0Classe1a;0;29;0;fitter;C2_181;M;Ex-Smoker;Engineering Department
+39;Classe0Classe1a;0;25;1;electrician;C2_182;M;Smoker;Engineering Department
+51;Classe7;3.5;31;0;bosun;C2_183;M;Smoker;Deck Officers
+52;Classe0Classe1a;0;31;1;ableseafarerdeck;C2_183;M;Smoker;Professional Certifications and Credentials
+47;Classe0Classe1a;0;24;1;2ndengineer;C2_184;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0;24;1;2ndengineer;C2_184;M;Smoker;Engineering Positions
+45;Classe0Classe1a;0;25;1;ableseaman;C2_185;M;Smoker;Professional Certifications and Credentials
+37;Classe0Classe1a;0;27;1;fitter;C2_188;M;Smoker;Engineering Department
+41;Classe0Classe1a;0;30;0;ableseaman;C2_191;M;Smoker;Professional Certifications and Credentials
+43;Classe0Classe1a;0;26;1;3rdengineer;C2_193;M;Smoker;Engineering Positions
+36;Classe0Classe1a;0.1;29;1;ableseaman;C2_194;M;Non-Smoker;Professional Certifications and Credentials
+52;Classe9;4.2;30;0;chiefengineer;C2_197;M;Non-Smoker;Engineering Positions
+22;Classe0Classe1a;0;26;1;deckboy;C2_199;M;Non-Smoker;Deck Officers
+39;Classe0Classe1a;0.1;22;1;wiper;C2_201;M;Smoker;Engineering Department
+27;Classe0Classe1a;0;31;0;engineerating;C2_202;M;Smoker;Engineering Positions
+28;Classe7Classe7;10.2;34;0;engineerating;C2_202;M;Ex-Smoker;Engineering Positions
+30;Classe0Classe1a;0;25;1;2ndengineer;C2_203;M;Non-Smoker;Engineering Positions
+40;Classe0Classe1a;0;35;1;motorman;C2_206;M;Smoker;Engineering Department
+46;Classe7;1.1;24;1;ableseaman;C2_207;M;Smoker;Professional Certifications and Credentials
+47;Classe2Classe1a;0.1;26;1;ableseaman;C2_207;M;Smoker;Professional Certifications and Credentials
+54;Classe7;2.2;30;1;wiper;C2_210;M;Non-Smoker;Engineering Department
+55;Classe0Classe1a;0;30;1;wiper;C2_210;M;Non-Smoker;Engineering Department
+26;Classe0Classe1a;0;24;1;wiper;C2_211;M;Non-Smoker;Engineering Department
+57;Classe0Classe1a;0;26;1;ableseaman;C2_214;M;Smoker;Professional Certifications and Credentials
+34;Classe0Classe1a;0;24;1;electrician;C2_217;M;Smoker;Engineering Department
+35;Classe0Classe1a;0;24;1;electrician;C2_217;M;Smoker;Engineering Department
+63;Classe7;0.4;29;1;ableseaman;C2_218;M;Ex-Smoker;Professional Certifications and Credentials
+64;Classe2Classe7;0;28;1;ableseaman;C2_218;M;Ex-Smoker;Professional Certifications and Credentials
+59;Classe0Classe1a;0;24;0;ableseaman;C2_219;M;Non-Smoker;Professional Certifications and Credentials
+60;Classe2Classe8;0.5;23;0;ableseaman;C2_219;M;Smoker;Professional Certifications and Credentials
+45;Classe0Classe1a;0;27;1;motorman;C2_220;M;Smoker;Engineering Department
+46;Classe0Classe1a;0;27;1;motorman;C2_220;M;Smoker;Engineering Department
+58;Classe9;7.3;25;0;ableseaman;C2_221;M;Smoker;Professional Certifications and Credentials
+59;Classe0Classe1a;0;25;0;ableseaman;C2_221;M;Smoker;Professional Certifications and Credentials
+43;Classe7Classe7;2.9;28;0;ableseaman;C2_223;M;Smoker;Professional Certifications and Credentials
+43;Classe0Classe1a;0;25;1;ordinaryseaman;C2_224;M;Non-Smoker;Deck Officers
+44;Classe0Classe1a;0;25;1;ordinaryseaman;C2_224;M;Non-Smoker;Deck Officers
+58;Classe9;2.3;28;0;ableseaman;C2_225;M;Smoker;Professional Certifications and Credentials
+57;Classe0Classe1a;0;26;0;bosun;C2_227;M;Smoker;Deck Officers
+58;Classe0Classe1a;0;25;0;bosun;C2_227;M;Smoker;Deck Officers
+21;Classe7;1.4;20;1;deckcadet;C2_228;M;Non-Smoker;Deck Officers
+49;Classe7;0.6;32;1;chiefengineer;C2_234;M;Non-Smoker;Engineering Positions
+49;Classe0Classe1a;0;32;1;chiefengineer;C2_234;M;Non-Smoker;Engineering Positions
+50;classunknow;0;33;1;chiefengineer;C2_234;M;Non-Smoker;Engineering Positions
+27;Classe0Classe1a;0;28;1;1stengineer;C2_236;M;Smoker;Engineering Positions
+28;Classe0Classe1a;0;29;1;2ndengineer;C2_236;M;Smoker;Engineering Positions
+31;Classe0Classe1a;0;27;1;4thengineer;C2_237;M;Non-Smoker;Engineering Positions
+23;Classe0Classe1a;0;24;1;4thengineer;C2_238;F;Smoker;Engineering Positions
+24;Classe0Classe1a;0;24;1;4thengineer;C2_238;F;Smoker;Engineering Positions
+23;Classe0Classe1a;0;20;1;wiper;C2_239;M;Smoker;Engineering Department
+59;Classe2Classe7;0.1;39;0;ableseaman;C2_246;M;Ex-Smoker;Professional Certifications and Credentials
+52;Classe9;1.5;26;0;fitter;C2_247;M;Non-Smoker;Engineering Department
+53;Classe2Classe3a;0.6;26;0;fitter;C2_247;M;Non-Smoker;Engineering Department
+48;Classe0Classe1a;0;23;0;wiper;C2_249;M;Smoker;Engineering Department
+48;Classe0Classe1a;0;23;0;wiper;C2_249;M;Smoker;Engineering Department
+53;Classe5Classe6;9.7;27;0;fitter;C2_250;M;Non-Smoker;Engineering Department
+54;Classe5Classe6;11.9;27;0;fitter;C2_250;M;Non-Smoker;Engineering Department
+33;Classe0Classe1a;0;25;1;fitter;C2_251;M;Smoker;Engineering Department
+35;Classe0Classe1a;0;25;1;fitter;C2_251;M;Smoker;Engineering Department
+62;Classe0Classe1a;0;26;0;bosun;C2_252;M;Smoker;Deck Officers
+28;Classe0Classe1a;0;26;1;deckboy;C2_253;M;Non-Smoker;Deck Officers
+29;Classe0Classe1a;0;27;1;deckboy;C2_253;M;Non-Smoker;Deck Officers
+30;Classe0Classe1a;0;26;1;deckboy;C2_253;M;Non-Smoker;Deck Officers
+35;Classe0Classe1a;0;24;1;2ndengineer;C2_255;M;Non-Smoker;Engineering Positions
+42;Classe1Classe7;0;31;0;3rdengineer;C2_260;M;Non-Smoker;Engineering Positions
+43;Classe0Classe1a;0;31;1;2ndengineer;C2_260;M;Non-Smoker;Engineering Positions
+25;Classe0Classe1a;0;24;1;engineofficer;C2_261;M;Non-Smoker;Engineering Positions
+26;Classe0Classe1a;0;21;1;wiper;C2_262;M;Non-Smoker;Engineering Department
+44;Classe1Classe1a;0;21;1;2ndengineer;C2_263;M;Smoker;Engineering Positions
+37;Classe0Classe1a;0;21;1;chiefengineer;C2_266;M;Smoker;Engineering Positions
+38;Classe0Classe1a;0;23;1;chiefengineer;C2_266;M;Smoker;Engineering Positions
+55;Classe9;3.1;26;0;fitter;C2_267;M;Ex-Smoker;Engineering Department
+56;Classe2Classe3a;0.4;26;0;fitter;C2_267;M;Ex-Smoker;Engineering Department
+49;Classe7;0.7;37;1;ableseaman;C2_269;M;Non-Smoker;Professional Certifications and Credentials
+30;Classe7;0.6;25;1;3rdengineer;C2_274;M;Smoker;Engineering Positions
+58;Classe1Classe9;0;28;1;bosun;C2_275;M;Non-Smoker;Deck Officers
+59;Classe1Classe2a;0;28;1;bosun;C2_275;M;Non-Smoker;Deck Officers
+39;Classe0Classe1a;0;23;0;electrician;C2_276;M;Non-Smoker;Engineering Department
+50;Classe0Classe1a;0;24;0;engineerating;C2_277;M;Smoker;Engineering Positions
+52;Classe0Classe1a;0;24;0;motorman;C2_277;M;Smoker;Engineering Department
+38;Classe0Classe1a;0;26;1;wiper;C2_278;M;Non-Smoker;Engineering Department
+39;Classe1Classe2a;0;26;1;wiper;C2_278;M;Non-Smoker;Engineering Department
+55;classunknow;0.6;21;0;wiper;C2_280;M;Smoker;Engineering Department
+56;classunknow;0;21;0;wiper;C2_280;M;Smoker;Engineering Department
+47;Classe0Classe1a;0;25;1;3rdengineer;C2_281;M;Smoker;Engineering Positions
+47;Classe0Classe1a;0.1;25;1;3rdengineer;C2_281;M;Smoker;Engineering Positions
+48;Classe0Classe1a;0;25;1;engineer;C2_281;M;Smoker;Engineering Positions
